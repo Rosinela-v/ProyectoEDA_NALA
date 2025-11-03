@@ -1,0 +1,724 @@
+SKU,gramos/ml,nombre,categoria_general,categoria,precio,ingrediente_clave,país,url,categoria_normalizada,categoria_original
+30692,200,Champú Cabello Graso - Camomila,Cabello,Champú,7.9,Camomila,España,https://nala.es/products/aceite-cabello-champu-manzanilla,,
+30702,200,Mascarilla capilar - Coco,Cabello,Mascarilla,8.9,Coco,España,https://nala.es/products/mascarilla-capilar-coco,,
+30798,200,Mascarilla Capilar Voluminizante y Brillante - Argán y Espirulina,Cabello,Mascarilla,8.9,Argán,España,https://nala.es/products/mascarilla-capilar-voluminizadora-argan-spirulina,,
+64285,75,"Tónico Capilar Fortificante y Estimulante del Crecimiento - Cafeína, Pimienta Negra y Extracto de 7 Plantas",Cabello,Tónico Capilar,8.9,Cafeína,España,https://nala.es/products/fortificante-estimulante-crecimiento-cabello-tonico-cafeina-pimienta-negra-7-plantas-extracto,,
+64307,200,"Champú Púrpura Cabello Rubio - Extracto Absoluto de Violeta, Extracto de Algas, Extracto de Lima",Cabello,Champú,7.9,Extracto Absoluto de Violeta,España,https://nala.es/products/champu-rubio-purpura-violeta-extracto-absoluto-extracto-de-algas-extracto-limon,,
+64287,200,"Acondicionador Púrpura Cabello Rubio - Aceite de Coco, Romero y Hierba Limón",Cabello,Acondicionador,8.9,Coco,España,https://nala.es/products/acondicionador-purpura-pelo-rubio-aceite-de-coco-rosemary-lemongrass,,
+70438,200,Acondicionador Hidratante - Jojoba y Rosas,Cabello,Acondicionador,8.9,Jojoba,España,https://nala.es/products/acondicionador-hidratante-joba-rosas,,
+64288,200,"Mascarilla Morada Cabello Rubio - Aceite de Coco, Aceite de Romero, Aceite de Hierba Limón",Cabello,Mascarilla,6.9,Coco,España,https://nala.es/products/purple-mask-blonde-hair-coconut-oil-rosemary-oil-lemongrass-oil,,
+70454,58,Champú sólido para cabello graso - Lemongrass,Cabello,Champu Solido,7.9,Lemongrass,España,https://nala.es/products/solid-shampoo-oily-hair-lemongrass,,
+64308,200,"Champú Hidratante Intensivo - 50% Miel, Rosas, Azahar",Cabello,Champú,9.9,Miel,España,https://nala.es/products/champu-hidratante-intensivo-50-miel-rosas-flores-de-naranja,,
+70471,200,"Acondicionador Volumen y Brillo - Jojoba, Espirulina, Azahar",Cabello,Acondicionador,9.9,Jojoba,España,https://nala.es/products/acondicionador-volumen-y-brillo-joba-espirulina-rosa-naranja,,
+74293,200,"Acondicionador Hidratante Intensivo - Almendra, Salvia, Vainilla, Miel",Cabello,Acondicionador,7.9,Vainilla,España,https://nala.es/products/acondicionador-hidratante-intensivo-almendra-salvia-vainilla-miel,,
+64422,200,"Champú protector para Cabello Teñido - Extracto de Arroz, Alcachofa, Proteínas de Guisante, Avena, Maíz, Soja y Trigo",Cabello,Champú,9.9,Extracto de Arroz,España,https://nala.es/products/champu-protector-para-cabello-tenido-extracto-de-arroz-alcachofa-proteinas-de-guisante-avena-maiz-soja-y-trigo,,
+64423,200,"Bálsamo protector para Cabello Teñido - Extracto de Arroz, Alcachofa, Proteínas de Guisante, Avena, Maíz, Soja y Trigo",Cabello,Acondicionador,9.9,Extracto de Arroz,España,https://nala.es/products/balsamo-protector-para-cabello-tenido-extracto-de-arroz-alcachofa-proteinas-de-guisante-avena-maiz-soja-y-trigo,,
+74295,55,"Tratamiento anticaspa para el cuero cabelludo - Aceite de menta silvestre, coco, cera",Cabello,Tratamiento Capilar,9.9,Menta,España,https://nala.es/products/tratamiento-anticaspa-descamacion-aceite-de-menta-silvestre-cera-de-coco,,
+74296,200,"Tratamiento para el cuero cabelludo Healthy Roots - Menta silvestre, miel y agua de rosas",Cabello,Tratamiento Capilar,9.9,Menta,España,https://nala.es/products/tratamiento-saludable-para-las-raices-descamadas-agua-de-miel-rosa-salvaje,,
+30714,50,Serum capilar - Aceite de Argán,Cabello,Aceite Capilar,10.9,Argán,España,https://nala.es/products/cabello-suero-argan-aceite,,
+30703,50,Cera para el cabello - Manteca de karité y cera de abeja,Cabello,Cera Capilar,7.9,Karité,España,https://nala.es/products/cera-para-el-pelo-ceite-bee-wax,,
+30704,200,Spray para el cabello con sal marina - Grapefruit,Cabello,Spray Capilar,7.9,Grapefruit,España,https://nala.es/products/sal-marina-peluqueria-pomelo,,
+70455,58,Champú sólido para cabellos dañados - Gardenia,Cabello,Champu Solido,7.9,Gardenia,España,https://nala.es/products/champu-solido-pelo-danado-gardenia,,
+30700,200,Acondicionador Cabello Graso - Camomila,Cabello,Acondicionador,8.9,Camomila,España,https://nala.es/products/acondicionador-aceite-cabello-manzanilla,,
+74294,200,"Mascarilla de Tratamiento Capilar Hidratante Intensivo - Aceite de Almendras, Miel, Vainilla",Cabello,Tratamiento Capilar,8.9,Miel,España,https://nala.es/products/tratamiento-hidratante-intensivo-mascarilla-aceite-de-almendras-miel-vainilla,,
+64240,200,Champú Fortificante y Estimulante del Crecimiento - Cafeína - Pimienta Negra y extracto de 7 plantas,Cabello,Champú,9.9,Cafeína,España,https://nala.es/products/champu-fortificante-y-estimulante-del-crecimiento-cafeina-pimienta-negra-7-extractos-vegetales,,
+70436,200,Champú Volumen y Brillo - Sal del Mar Muerto y Espirulina,Cabello,Champú,9.9,Sal del Mar,España,https://nala.es/products/champu-brillo-volumen-sal-muerta-espirulina,,
+64821,200,Spray para el cabello con sal marina brillante - Naranja y piña,Cabello,Spray Capilar,9.9,Naranja,España,https://nala.es/products/shimmering-sea-salthair-spray-naranja-pina,,
+70456,58,Champú sólido para cuero cabelludo sensible - Fresa,Cabello,Champu Solido,7.9,Fresa,España,https://nala.es/products/champu-solido-sensible-cascara-fresa,,
+64239,200,"Champú Rehab y Detox - Extracto de Ortiga, Almendras, Trigo",Cabello,Champú,8.9,Extracto de Ortiga,España,https://nala.es/products/rehab-detox-shampoo-extracto-de-ortiga-almendras-trigo,,
+30695,200,Champú Cabello Graso - Grapefruit,Cabello,Champú,8.9,Grapefruit,España,https://nala.es/products/aceite-cabello-champu-pomelo,,
+35001,30,Sérum Hidratante para el Cabello – Aceite de Argán y Aceite de Oliva,Cabello,Aceite Capilar,9.9,Argán,España,https://nala.es/products/serum-hidratante-para-el-cabello-aceite-de-argan-y-aceite-de-oliva,,
+64238,200,Champú anticaspa - Aceite de menta y extracto de salvia,Cabello,Champú,8.9,Menta,España,https://nala.es/products/champu-anticaspa-aceite-de-menta-extracto-de-salvia,,
+35421,200,Exfoliante de Sal – Frutos Rojos & Bergamota,Corporal,Exfoliante Corporal,9.9,Frutos rojos,España,https://nala.es/products/exfoliante-sal-frutos-rojos-bergamota,,
+35438,200,Exfoliante de Sal – Pimienta Rosa & Ámbar,Corporal,Exfoliante Corporal,9.9,Pimienta rosa,España,https://nala.es/products/exfoliante-sal-pimienta-rosa-ambar,,
+35452,200,Exfoliante de Sal – Pera & Sandía,Corporal,Exfoliante Corporal,9.9,Pera y sandia,España,https://nala.es/products/exfoliante-sal-pera-sandia,,
+35445,200,Exfoliante de Sal – Arándanos & Uvas,Corporal,Exfoliante Corporal,9.9,Uvas,España,https://nala.es/products/exfoliante-sal-arandanos-uvas,,
+35537,125,Manteca Corporal - Pera & Sandía,Corporal,Manteca Corporal,9.9,Pera & Sandía,España,https://nala.es/products/manteca-corporal-pera-sandia,,
+35520,125,Manteca Corporal - Arándanos & Uvas,Corporal,Manteca Corporal,9.9,Uvas,España,https://nala.es/products/manteca-corporal-arandanos-uvas,,
+35513,125,Manteca Corporal - Pimienta Rosa & Ámbar,Corporal,Manteca Corporal,9.9,Pimienta Rosa & Ámbar,España,https://nala.es/products/manteca-corporal-pimienta-rosa-ambar,,
+35506,125,Manteca Corporal - Frutos Rojos & Bergamota,Corporal,Manteca Corporal,9.9,Frutos Rojos & Bergamota,España,https://nala.es/products/manteca-corporal-frutos-rojos-bergamota,,
+35285,100,Aceite Seco Corporal Luminoso - Piña & Sándalo,Corporal,Aceite Corporal,9.9,Piña,España,https://nala.es/products/aceite-seco-corporal-luminoso-pina-sandalo,,
+35278,100,Aceite Seco Corporal Luminoso - Melocotón & Mango,Corporal,Aceite Corporal,9.9,Melocotón,España,https://nala.es/products/aceite-seco-corporal-luminoso-melocoton-mango,,
+35261,100,Aceite Seco Corporal Luminoso - Fruta de la Pasión & Litchi,Corporal,Aceite Corporal,9.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/aceite-seco-corporal-luminoso-fruta-de-la-pasion-litchi,,
+35254,100,Aceite Seco Corporal Luminoso - Granita de Limón,Corporal,Aceite Corporal,7.9,Limón,España,https://nala.es/products/aceite-seco-corporal-luminoso-granita-de-limon,,
+35247,150,Bruma para cuerpo y cabello - Piña & Sándalo,Corporal,Bruma Corporal,8.9,Piña,España,https://nala.es/products/bruma-para-cuerpo-y-cabello-pina-sandalo,,
+35230,150,Bruma para cuerpo y cabello - Melocotón & Mango,Corporal,Bruma Corporal,8.9,Melocotón,España,https://nala.es/products/bruma-para-cuerpo-y-cabello-melocoton-mango,,
+35223,150,Bruma para cuerpo y cabello - Fruta de la Pasión & Litchi,Corporal,Bruma Corporal,8.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/bruma-para-cuerpo-y-cabello-fruta-de-la-pasion-litchi,,
+35216,150,Bruma para cuerpo y cabello - Granita de Limón,Corporal,Bruma Corporal,6.9,Limón,España,https://nala.es/products/bruma-para-cuerpo-y-cabello-granita-de-limon,,
+35209,150,Sorbete Corporal - Piña & Sándalo,Corporal,Sorbete Corporal,8.9,Piña,España,https://nala.es/products/sorbete-corporal-pina-sandalo,,
+35193,150,Sorbete Corporal - Melocotón & Mango,Corporal,Sorbete Corporal,8.9,Melocotón,España,https://nala.es/products/sorbete-corporal-melocoton-mango,,
+35186,150,Sorbete Corporal - Fruta de la Pasión & Litchi,Corporal,Sorbete Corporal,8.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/sorbete-corporal-fruta-de-la-pasion-litchi,,
+35179,150,Sorbete Corporal - Granita de Limón,Corporal,Sorbete Corporal,5.9,Limón,España,https://nala.es/products/sorbete-corporal-granita-de-limon,,
+35100,55,Desodorante en crema - Melocotón & Mango,Corporal,Desodorante,5.9,Melocotón,España,https://nala.es/products/desodorante-en-crema-melocoton-mango,,
+35117,55,Desodorante en crema - Piña & Sándalo,Corporal,Desodorante,4.9,Piña,España,https://nala.es/products/desodorante-en-crema-pina-sandalo,,
+35124,55,Desodorante en crema - Fruta de la Pasión & Litchi,Corporal,Desodorante,5.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/desodorante-en-crema-fruta-de-la-pasion-litchi,,
+35094,55,Desodorante en crema - Granita Limón,Corporal,Desodorante,5.9,Limón,España,https://nala.es/products/desodorante-en-crema-granita-limon,,
+35049,200,Exfoliante de Sal - Fruta de la Pasión & Litchi,Corporal,Exfoliante Corporal,9.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/exfoliante-de-sal-fruta-de-la-pasion-litchi,,
+35032,200,Exfoliante de CAFÉ - Piña & Sándalo,Corporal,Exfoliante Corporal,7.9,Café,España,https://nala.es/products/exfoliante-de-cafe-pina-sandalo,,
+35025,200,Exfoliante de Sal - Melocotón & Mango,Corporal,Exfoliante Corporal,9.9,Melocotón,España,https://nala.es/products/exfoliante-de-sal-melocoton-mango,,
+35018,200,Exfoliante de Sal - Granita Limón,Corporal,Exfoliante Corporal,9.9,Limón,España,https://nala.es/products/exfoliante-de-sal-granita-limon,,
+64354,100,Spray Corporal Luminoso - Caramelo y Vainilla,Corporal,Spray corporal,7.5,Vainilla,España,https://nala.es/products/spray-corporal-luminoso-caramelo-y-vainilla,,
+64499,150,"Spray protector solar SPF50 - Extracto de Zanahoria, Aloe Vera y Granada",Corporal,Spray corporal,16.9,Aloe,España,https://nala.es/products/spray-protector-solar-spf50-extracto-de-zanahoria-aloe-vera-y-granada,,
+64498,150,"Spray protector solar SPF30 - Extracto de Zanahoria, Aloe Vera y Granada",Corporal,Spray corporal,15.9,Aloe,España,https://nala.es/products/spray-protector-solar-spf30-extracto-de-zanahoria-aloe-vera-y-granada,,
+64482,47,Desodorante Natural en Barra – Cereza,Corporal,Desodorante,5.9,Cereza,España,https://nala.es/products/desodorante-natural-en-barra-cereza,,
+64481,47,Desodorante Natural en Barra – Naranja,Corporal,Desodorante,5.9,Naranja,España,https://nala.es/products/desodorante-natural-en-barra-naranja,,
+64480,47,Desodorante Natural en Barra - Grapefruit,Corporal,Desodorante,5.9,Grapefruit,España,https://nala.es/products/desodorante-natural-en-barra-grapefruit,,
+64479,47,Desodorante Natural en Barra – Manzanilla y Lavanda,Corporal,Desodorante,5.9,Manzanilla,España,https://nala.es/products/desodorante-natural-en-barra-manzanilla-y-lavanda,,
+64384,250,Gel de cuidado íntimo - Caléndula & Árbol de Té,Corporal,Gel intimo,6.9,Caléndula,España,https://nala.es/products/gel-de-cuidado-intimo-calendula-arbol-de-te,,
+64383,250,Gel íntimo delicado - Arándanos rojos y Extracto de Corteza de Roble,Corporal,Gel intimo,7.9,Arándanos rojos ,España,https://nala.es/products/gel-intimo-delicado-arandanos-rojos-y-extracto-de-corteza-de-roble,,
+64333,150,Bruma para el cuerpo y el cabello - Mango & Piña,Corporal,Bruma Corporal,8.9,Mango,España,https://nala.es/products/bruma-para-el-cuerpo-y-el-cabello-mango-pina,,
+64487,150,Sorbete Corporal - Fresas,Corporal,Sorbete Corporal,8.9,Fresas,España,https://nala.es/products/sorbete-corporal-fresas,,
+64483,200,Exfoliante de Sal - Vainilla,Corporal,Exfoliante Corporal,9.9,Vainilla,España,https://nala.es/products/exfoliante-de-sal-vainilla,,
+65172,150,Sorbete Corporal - Vainilla,Corporal,Sorbete Corporal,8.9,Vainilla,España,https://nala.es/products/sorbete-corporal-vainilla,,
+65043,150,Sorbete Corporal - Flores de Naranjo,Corporal,Sorbete Corporal,5.5,Flores de Naranjo,España,https://nala.es/products/sorbete-corporal-flores-de-naranjo,,
+65039,200,Exfoliante de CAFÉ - Flores de Naranjo,Corporal,Exfoliante Corporal,9.9,Café,España,https://nala.es/products/exfoliante-de-cafe-flores-de-naranjo,,
+64478,100,Gel Corporal Luminoso - Caramelo Salado y Vainilla,Corporal,Spray corporal,9.9,Vainilla,España,https://nala.es/products/gel-cuerpo-brillante-caramelo-salado-vainilla,,
+64241,50,"Bálsamo Restaurador Intenso Manos, Uñas y Cutículas",Corporal,Crema de Manos,4.9,Otro,España,https://nala.es/products/balsamo-manos-unas-cuticulas-restaurador-intenso,,
+64278,150,Bruma para el cuerpo y el cabello - Pomelo,Corporal,Bruma Corporal,8.9,Pomelo,España,https://nala.es/products/body-hair-mist-pomelo,,
+64266,50,"Crema de Manos Hidratante - Aceite de Aguacate, Aceite de Coco y Aloe Vera",Corporal,Crema de Manos,4.9,Aguacate,España,https://nala.es/products/crema-de-manos-hidratante-aceite-de-aguacate-aceite-de-coco-aloe-vera,,
+70467,200,Exfoliante corporal de sal - Lila,Corporal,Exfoliante Corporal,9.9,Lila,España,https://nala.es/products/body-scrub-lilac,,
+64437,125,Manteca corporal - Cítricos,Corporal,Manteca Corporal,9.9,Cítricos,España,https://nala.es/products/body-butter-citrus,,
+64213,11,Bálsamo labial brillante - Granada,Corporal,Bálsamo labial,4.9,Granada,España,https://nala.es/products/balsamo-labial-brillante-granada,,
+64435,50,Crema de Manos Reparadora - Arándano y Melocotón,Corporal,Crema de Manos,4.9,Melocotón,España,https://nala.es/products/restaurar-mano-crema-arandano-melocoton,,
+74271,55,Desodorante en crema - Ciprés,Corporal,Desodorante,5.9,Ciprés,España,https://nala.es/products/crema-desodorante-cipresa,,
+64439,125,Manteca corporal - Arándano y melocotón,Corporal,Manteca Corporal,9.9,Melocotón,España,https://nala.es/products/body-butter-arandano-melocoton,,
+74203,200,Exfoliante de café - Coco y plátano,Corporal,Exfoliante Corporal,9.9,Café,España,https://nala.es/products/cafe-gommage-coco-platano,,
+74265,150,"Aceite de masaje relajante - Geranio, Cártamo, Lavanda, Salvia",Corporal,Aceite Corporal,9.9,Lavanda,España,https://nala.es/products/aceite-masaje-relajante-geranio-aflor-lavanda-salvia,,
+70491,55,Desodorante en crema - Naranja,Corporal,Desodorante,5.9,Naranja,España,https://nala.es/products/crema-desodorante-naranja,,
+64265,50,"Gel Crema de Manos - Menta, Hierba Limón, Aceite de Germen de Trigo",Corporal,Crema de Manos,4.9,Menta,España,https://nala.es/products/gel-crema-manos-menta-hierba-de-limon-aceite-de-germen-de-trigo,,
+74267,150,"Aceite de Masaje Detox - Grapefruit, Ciprés, Limón",Corporal,Aceite Corporal,9.9,Limón,España,https://nala.es/products/detox-masaje-aceite-pomelo-cipreso-limon,,
+64264,50,Crema de manos hidratante intensiva - Aceite de cáñamo,Corporal,Crema de Manos,4.9,Cáñamo,España,https://nala.es/products/crema-de-manos-hidratante-intensiva-aceite-de-canamo,,
+64431,150,Sorbete corporal - Arándano y melocotón,Corporal,Sorbete Corporal,8.9,Melocotón,España,https://nala.es/products/body-sorbet-arandano-melocoton,,
+64429,150,Sorbete corporal - Cítricos,Corporal,Sorbete Corporal,5.5,Cítricos,España,https://nala.es/products/body-sorbet-citrus,,
+74266,150,Aceite de masaje sensual - Naranja amarga y palo de rosa,Corporal,Aceite Corporal,9.9,Naranja,España,https://nala.es/products/aceite-masaje-sensual-naranja-amarga-rosewood,,
+70484,55,Desodorante en crema - Lavanda y Camomila,Corporal,Desodorante,5.9,Lavanda,España,https://nala.es/products/crema-desodorante-lavanda-manzanilla,,
+74272,55,Desodorante en crema - Madera de cedro,Corporal,Desodorante,5.9,Madera de cedro,España,https://nala.es/products/crema-desodorante-cedro-madera,,
+70492,55,Desodorante en crema - Granada,Corporal,Desodorante,5.9,Granada,España,https://nala.es/products/crema-desodorante-granada,,
+70494,55,Desodorante en crema - Cereza amarga,Corporal,Desodorante,5.9,Cereza amarga,España,https://nala.es/products/crema-desodorante-cereza-amarga,,
+74231,125,Bomba de baño de purpurina - Uvas rojas,Corporal,Bomba de Baño,3.9,Uvas,España,https://nala.es/products/glitter-bath-bomb-red-grapes,,
+74291,300,Exfoliante corporal hidratante de sal - Aceite de cáñamo,Corporal,Aceite Corporal,12.9,Cáñamo,España,https://nala.es/products/exfoliante-sal-hidratante-aceite-de-canamo,,
+74200,125,Manteca corporal - Coco y vainilla,Corporal,Manteca Corporal,9.9,Coco,España,https://nala.es/products/body-butter-coco-vainilla,,
+74264,150,Aceite Seco Corporal - Geranio y Naranja Amarga,Corporal,Aceite Corporal,12.9,Naranja,España,https://nala.es/products/cuerpo-aceite-seco-geranio-naranja-amarga,,
+70481,150,Aceite Seco Corporal - Papaya,Corporal,Aceite Corporal,12.9,Papaya,España,https://nala.es/products/aceite-corporal-seco-papaya,,
+70493,55,Desodorante en crema - Vainilla y Rosas,Corporal,Desodorante,5.9,Vainilla,España,https://nala.es/products/crema-desodorante-vainilla-rosas,,
+70485,55,Desodorante en crema - Bergamota y Citronela,Corporal,Desodorante,5.9,Bergamota y Citronela,España,https://nala.es/products/desodorante-en-crema-berbamota-citronela,,
+64361,200,Exfoliante de Jalea de Azúcar - Coco,Corporal,Exfoliante Corporal,12.9,Coco,España,https://nala.es/products/azucar-jalea-gommage-coco,,
+65003,250,Gel de cuidado íntimo - Camomila,Corporal,Gel intimo,7.9,Camomila,España,https://nala.es/products/gel-cuidado-intimo-manzanilla,,
+70441,200,Gel refrescante para después del sol - Aloe Vera y Mentol,Corporal,Crema Corporal,9.9,Aloe,España,https://nala.es/products/gel-refrescante-para-despues-del-sol-aloe-vera-y-mentol,,
+64366,200,Exfoliante de Jalea de Azúcar - Pimienta Roja,Corporal,Exfoliante Corporal,8.9,Pimienta Roja,España,https://nala.es/products/azucar-jalea-matorrales-rojo-pimienta,,
+70423,200,Exfoliante de café - Coco y vainilla,Corporal,Exfoliante Corporal,9.9,Café,España,https://nala.es/products/cafe-gommage-coco-vainilla,,
+64896,150,Sorbete corporal - Semillas de uva,Corporal,Sorbete Corporal,8.9,Semillas de uva,España,https://nala.es/products/body-sorbet-grapeseed-1,,
+65013,150,Sorbete corporal - Aceite de cáñamo,Corporal,Aceite Corporal,8.9,Cáñamo,España,https://nala.es/products/body-sorbet-aceite-de-canamo,,
+65019,50,Crema Facial Hidratante SPF 50 - Piel Normal - Extracto de Siempreviva y Margarita,Corporal,Protector solar facial,14.9,Extracto de Siempreviva,España,https://nala.es/products/crema-facial-hidratante-spf-50-piel-normal-extracto-de-siempreviva-margarita,,
+64368,100,Spray Corporal Luminoso - Grapefruit,Corporal,Spray corporal,9.9,Grapefruit,España,https://nala.es/products/spray-cuerpo-brillante-pomelo,,
+64820,200,Exfoliante de café resplandeciente - Plátano y aceite de macadamia,Corporal,Exfoliante Corporal,12.9,Café,España,https://nala.es/products/shimmering-coffee-scrub-banana-macadamia-oil,,
+64891,150,Sorbete corporal - Lila,Corporal,Sorbete Corporal,8.9,Lila,España,https://nala.es/products/cuerpo-sorbet-lilac,,
+70448,55,Desodorante en crema - Uvas rojas,Corporal,Desodorante,5.9,Uvas,España,https://nala.es/products/crema-desodorante-uvas-rojas,,
+64369,100,Aceite Seco Corporal Luminoso - Grapefruit,Corporal,Aceite Corporal,9.9,Grapefruit,España,https://nala.es/products/aceite-seco-brillante-pomelo,,
+70432,100,Exfoliante de manos - Aceite de almendras y lavanda,Corporal,Crema de Manos,5.9,Lavanda,España,https://nala.es/products/exfoliante-de-manos-aceite-de-almendras-lavanda,,
+65069,300,Exfoliante corporal de chocolate - Cacao en polvo y aceite de almendras,Corporal,Exfoliante Corporal,12.9,Cacao en polvo y aceite de almendras,España,https://nala.es/products/exfoliante-de-cuerpo-de-chocolate-polvo-de-cacao-aceite-de-almendras,,
+64360,200,Exfoliante de jalea de azúcar - Arándanos,Corporal,Exfoliante Corporal,12.9,Arándanos,España,https://nala.es/products/azucar-gelatina-frambuesa-arandanos,,
+64894,150,Sorbete corporal - Grapefruit,Corporal,Sorbete Corporal,8.9,Grapefruit,España,https://nala.es/products/body-sorbet-pomelo-1,,
+70443,125,Manteca corporal - Granada,Corporal,Manteca Corporal,9.9,Granada,España,https://nala.es/products/body-butter-granada,,
+70431,150,Exfoliante para pies - Aceite de aguacate y árbol del té,Corporal,Exfoliante Corporal,5.9,Aguacate,España,https://nala.es/products/foot-scrub-avocado-oil-tea-tree,,
+65066,50,Crema Refrescante y Rehabilitadora para Pies - Ortiga y Eucalipto,Corporal,Crema Corporal,6.9,Ortiga y Eucalipto,España,https://nala.es/products/crema-refrescante-rehabilitadora-pies-ortiga-eucalipto,,
+70440,200,Exfoliante corporal de sal - Granada,Corporal,Exfoliante Corporal,9.9,Granada,España,https://nala.es/products/exfoliante-corporal-granada,,
+65018,200,Loción corporal hidratante - Aceite de cáñamo,Corporal,Crema Corporal,9.9,Cáñamo,España,https://nala.es/products/locion-corporal-hidratante-aceite-de-canamo,,
+64897,150,Sorbete corporal - Flores de primavera,Corporal,Sorbete Corporal,8.9,Flores de primavera,España,https://nala.es/products/cuerpo-sorbet-flores-primavera,,
+65016,200,Leche corporal - Grapefruit,Corporal,Crema Corporal,8.9,Grapefruit,España,https://nala.es/products/leche-corporal-pomelo-1,,
+64364,200,Exfoliante de Jalea de Azúcar - Kiwi,Corporal,Exfoliante Corporal,12.9,Kiwi,España,https://nala.es/products/azucar-jalea-matorral-y-kiwi,,
+65093,300,Exfoliante corporal de azúcar dorado y brillante,Corporal,Exfoliante Corporal,12.9,Otro,España,https://nala.es/products/exfoliante-corporal-de-azucar-dorado-y-brillante,,
+65014,150,Sorbete corporal - Cereza,Corporal,Sorbete Corporal,8.9,Cereza,España,https://nala.es/products/cuerpo-sorbet-cereza,,
+65064,50,"Crema hidratante para pies - Aceite de ricino, Camomila, Menta piperita",Corporal,Crema Corporal,5.5,Menta,España,https://nala.es/products/crema-hidratante-pies-aceite-de-ricino-manzanilla-menta,,
+64814,100,Jabón natural con esponja vegetal - Vainilla,Corporal,Jabon Natural,2.9,Vainilla,España,https://nala.es/products/jabon-natural-con-esponja-vegetal-y-vainilla,,
+70416,100,Jabón natural con esponja vegetal - Lima,Corporal,Jabon Natural,2.9,Lima,España,https://nala.es/products/jabon-natural-con-esponja-vegetal-y-lima,,
+65073,200,Exfoliante corporal de copos de coco - Coconut Cocktail,Corporal,Exfoliante Corporal,12.9,Coco,España,https://nala.es/products/coconut-flakes-body-scrub-coconut-cocktail,,
+65021,50,Crema Antiacné SPF 50 - Piel con Acné - Árbol de Té y Romero,Corporal,Protector solar facial,14.9,Árbol de Té,España,https://nala.es/products/crema-anti-acne-spf-50-acne-piel-propensa-te-arbol-romero,,
+65065,50,"Bálsamo Hidratante para Pies - Salvia, Árbol del Té, Bergamota",Corporal,Crema Corporal,6.9,Salvia,España,https://nala.es/products/balsamo-hidratante-pies-salvia-te-arbol-bergamota,,
+70449,55,Desodorante en crema - Tilo,Corporal,Desodorante,5.9,Tilo,España,https://nala.es/products/crema-desodorante-linden,,
+70446,125,Manteca corporal - Café,Corporal,Manteca Corporal,9.9,Café,España,https://nala.es/products/body-butter-coffee,,
+64809,125,Bomba de Baño - Purpurina Lila,Corporal,Bomba de Baño,2.5,Lila,España,https://nala.es/products/bomba-de-bano-glitter-lila,,
+64365,200,Exfoliante de gelatina de azúcar - Fresa,Corporal,Exfoliante Corporal,12.9,Fresa,España,https://nala.es/products/azucar-jalea-frambuesa-fresas,,
+64821,200,Spray para el cabello con sal marina brillante - Naranja y piña,Corporal,Spray corporal,9.9,Naranja,España,https://nala.es/products/shimmering-sea-salthair-spray-naranja-pina,,
+64823,75,"Desodorante en Spray para Pies - Lima, Árbol del Té, Menta piperita",Corporal,Spray corporal,6.5,Menta,España,https://nala.es/products/foot-spray-deodorant-lime-tea-tree-mint,,
+65012,150,Sorbete corporal - Frambuesa y vainilla,Corporal,Sorbete Corporal,8.9,Vainilla,España,https://nala.es/products/body-sorbet-frambuesa-vainilla,,
+70447,55,Desodorante en crema - Grapefruit,Corporal,Desodorante,5.9,Grapefruit,España,https://nala.es/products/crema-desodorante-pomelo,,
+64277,150,Bruma para el cuerpo y el cabello - Papaya,Corporal,Bruma Corporal,8.9,Papaya,España,https://nala.es/products/body-hair-mist-papaya,,
+64363,200,Exfoliante de Jalea de Azúcar - Cítricos,Corporal,Exfoliante Corporal,12.9,Cítricos,España,https://nala.es/products/azucar-jelly-scrub-citrus,,
+64377,100,Jabón brillante - Cítricos,Corporal,Jabon Natural,2.9,Cítricos,España,https://nala.es/products/jabon-brillante-citrus,,
+64893,150,Sorbete corporal - Uvas rojas,Corporal,Sorbete Corporal,8.9,Uvas,España,https://nala.es/products/body-sorbet-red-grapes-1,,
+65020,50,Crema Facial Matificante SPF 50 - Pieles mixtas - Escaramujo y Aceite de Oliva,Corporal,Protector solar facial,14.9,Escaramujo,España,https://nala.es/products/crema-facial-matificante-spf-50-aceite-de-oliva-para-pieles-mixtas,,
+64353,150,Crema Corporal Luminosa - Caramelo y Vainilla,Corporal,Crema Corporal,9.9,Vainilla,España,https://nala.es/products/crema-cuerpo-brillante-caramelo-vainilla,,
+64268,50,"Crema de Manos y Uñas - Manzanilla, Caléndula, Manteca de Mango, Aceite de Aguacate",Corporal,Crema de Manos,4.9,Manzanilla,España,https://nala.es/products/manicura-crema-manzanilla-marigold-mango-mantequilla-avocado-aceite,,
+64244,50,"Crema de Manos Restauradora - Manteca de Karité, Aceite de Almendras y Aceite de Linaza",Corporal,Crema de Manos,7.95,Karité,España,https://nala.es/products/restaurar-mano-crema-mantequilla-de-karite-aceite-de-almendras-aceite-de-linaza,,
+64276,150,Bruma para cuerpo y cabello - Fresa,Corporal,Bruma Corporal,8.9,Fresa,España,https://nala.es/products/cuerpo-pelo-vapor-fresas,,
+64242,50,"Crema de Manos Rehab Concentrada - Extracto de Hierba de San Juan, Aceite de Colza, Cera de Abeja, Propóleo, Aceite de Oliva",Corporal,Crema de Manos,4.9,Hierba de San Juan,España,https://nala.es/products/crema-manos-concentrada-rehabilitadora-aceite-de-rapeseed-beeswax-propolis-olive-oil,,
+64243,50,"Crema de Manos Protectora e Hidratante - Aceite de Oliva, Propóleo, Miel, Naranja",Corporal,Crema de Manos,3.9,Naranja,España,https://nala.es/products/crema-de-manos-protectora-e-hidratante-aceite-de-oliva-propoleo-miel-naranja,,
+30782,300,Exfoliante corporal de sal - Café,Corporal,Exfoliante Corporal,9.9,Café,España,https://nala.es/products/exfoliante-corporal-cafe,,
+30790,300,Exfoliante corporal de sal - Jengibre,Corporal,Exfoliante Corporal,12.9,Jengibre,España,https://nala.es/products/body-scrub-ginger,,
+30786,300,Exfoliante corporal de sal - Grapefruit,Corporal,Exfoliante Corporal,12.9,Grapefruit,España,https://nala.es/products/exfoliante-corporal-pomelo,,
+30784,125,Bomba de Baño - Café,Corporal,Bomba de Baño,3.9,Café,España,https://nala.es/products/bano-bomba-cafe,,
+30631,200,Exfoliante corporal de sal - Flores de primavera,Corporal,Exfoliante Corporal,9.9,Flores de primavera,España,https://nala.es/products/sal-scrub-spring-flowers,,
+30630,200,Exfoliante corporal de sal - Uvas rojas,Corporal,Exfoliante Corporal,9.9,Uvas,España,https://nala.es/products/body-salt-scrub-red-grapes,,
+30632,200,Exfoliante corporal de sal - Semilla de uva,Corporal,Exfoliante Corporal,9.9,Semilla de uva,España,https://nala.es/products/sal-scrub-grapeseed,,
+30638,200,Exfoliante de azúcar - Grapefruit,Corporal,Exfoliante Corporal,12.9,Grapefruit,España,https://nala.es/products/matorral-de-azucar-y-pomelo,,
+30748,100,Jabón Natural Anticelulítico - Grapefruit,Corporal,Jabon Natural,2.9,Grapefruit,España,https://nala.es/products/jabon-natural-anticelulitico-pomelo,,
+30735,100,Jabón natural - Anticelulítico,Corporal,Jabon Natural,3.9,Anticelulítico,España,https://nala.es/products/jabon-natural-anticelulitico,,
+30660,125,Manteca corporal - Flores de primavera,Corporal,Manteca Corporal,9.9,Flores de primavera,España,https://nala.es/products/spring-flowers-body-butter,,
+30656,125,Manteca corporal - Semillas de uva,Corporal,Manteca Corporal,9.9,Semillas de uva,España,https://nala.es/products/body-butter-grapeseed,,
+30657,125,Manteca corporal - Grapefruit,Corporal,Manteca Corporal,9.9,Grapefruit,España,https://nala.es/products/body-butter-pomelo,,
+30655,125,Crema corporal - Flores de primavera,Corporal,Crema Corporal,8.9,Flores de primavera,España,https://nala.es/products/crema-corporal-flores-de-primavera,,
+30654,125,Crema corporal - Uvas rojas,Corporal,Crema Corporal,8.9,Uvas,España,https://nala.es/products/crema-corporal-uvas-rojas,,
+65042,150,Sorbete Corporal – Melocotón,Corporal,Sorbete Corporal,8.9,Melocotón,España,https://nala.es/products/sorbete-corporal-melocoton,,
+64438,125,Manteca corporal - Fresa dulce,Corporal,Manteca Corporal,9.9,Fresa dulce,España,https://nala.es/products/body-butter-dulce-fresa,,
+64433,50,Crema de Manos Concentrada Rehab - Cítricos,Corporal,Crema de Manos,4.9,Cítricos,España,https://nala.es/products/concentrado-crema-mano-citrus,,
+64418,125,Manteca corporal - Membrillo,Corporal,Manteca Corporal,9.9,Membrillo,España,https://nala.es/products/body-butter-quince,,
+64443,200,Exfoliante corporal de sal - Arándano y melocotón,Corporal,Exfoliante Corporal,9.9,Melocotón,España,https://nala.es/products/exfoliante-corporal-arandano-melocoton,,
+64406,50,Crema de Manos Protectora e Hidratante - Membrillo,Corporal,Crema de Manos,4.9,Membrillo,España,https://nala.es/products/crema-de-manos-hidratante-protectora-de-membrillo,,
+70479,150,Aceite seco corporal - Sándalo,Corporal,Aceite Corporal,12.9,Sándalo,España,https://nala.es/products/aceite-corporal-seco-sandalo,,
+64362,200,Exfoliante de Jalea de Azúcar - Albaricoque,Corporal,Exfoliante Corporal,12.9,Albaricoque,España,https://nala.es/products/albaricoque-de-azucar-y-gelatina,,
+64825,100,"Mascarilla Rehab Manos y Pies - Cera de zumaque, Aceite de jojoba, Cera de carnauba",Corporal,Crema de Manos,9.9,Jojoba,España,https://nala.es/products/rehabilitacion-manos-pies-mascara-sumac-cera-jojoba-aceite-carnauba-cera,,
+64824,60,"Polvo Desodorante para Pies - Arcilla, Eucalipto, Árbol del Té",Corporal,Desodorante,8.9,Arcilla,España,https://nala.es/products/polvo-desodorante-pies-arcilla-eucalipto-te,,
+65102,150,Sorbete corporal - Cóctel de frutas,Corporal,Sorbete Corporal,8.9,Cóctel de frutas,España,https://nala.es/products/body-sorbet-fruits-cocktail,,
+64214,200,Leche corporal - Coco y vainilla,Corporal,Crema Corporal,8.9,Coco,España,https://nala.es/products/body-milk-coco-vainilla,,
+30633,200,Exfoliante de Sal - Fresas,Corporal,Exfoliante Corporal,9.9,Fresas,España,https://nala.es/products/exfoliante-de-sal-fresas,,
+35735,200,Gel de Ducha Exfoliante Hidratante - Plátano & Haba Tonka,Ducha y Baño,Gel de Ducha,7.9,Plátano & Haba Tonka,España,https://nala.es/products/gel-ducha-exfoliante-hidratante-platano-haba-tonka,,
+35490,125,Bomba de Baño Efervescente - Pera & Sandía,Ducha y Baño,Bomba de Baño,3.9,Pera & Sandía,España,https://nala.es/products/bomba-bano-efervescente-pera-sandia,,
+35155,200,Gel de Ducha - Melocotón & Mango,Ducha y Baño,Gel de Ducha,5.9,Melocotón,España,https://nala.es/products/gel-de-ducha-melocoton-mango,,
+35162,200,Gel de Ducha - Piña & Sándalo,Ducha y Baño,Gel de Ducha,5.9,Piña,España,https://nala.es/products/gel-de-ducha-pina-sandalo,,
+35148,200,Gel de Ducha - Fruta de la Pasión & Litchi,Ducha y Baño,Gel de Ducha,5.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/gel-de-ducha-fruta-de-la-pasion-litchi,,
+35131,200,Gel de Ducha - Granita de Limón,Ducha y Baño,Gel de Ducha,5.9,Limón,España,https://nala.es/products/gel-de-ducha-granita-de-limon,,
+35087,0,Bomba de Baño - Estrella de Mar - Fruta de la Pasión & Litchi,Ducha y Baño,Bomba de Baño,5.9,Fruta de la Pasión & Litchi,España,https://nala.es/products/bomba-de-bano-estrella-de-mar-fruta-de-la-pasion-litchi,,
+35070,125,Bomba de Baño Concha - Piña & Sándalo,Ducha y Baño,Bomba de Baño,4.9,Piña,España,https://nala.es/products/bomba-de-bano-concha-pina-sandalo,,
+35063,145,Bomba de Baño - Melocotón & Mango,Ducha y Baño,Bomba de Baño,3.9,Melocotón,España,https://nala.es/products/bomba-de-bano-melocoton-mango,,
+35056,125,Bomba de Baño - Granita Limón,Ducha y Baño,Bomba de Baño,3.9,Limón,España,https://nala.es/products/bomba-de-bano-granita-limon,,
+64203,50,Crema de Baño - Fresa,Ducha y Baño,Crema de Baño,3.9,Fresa,España,https://nala.es/products/crema-de-bano-fresa,,
+30721,50,Crema de Baño - Rosas,Ducha y Baño,Crema de Baño,3.9,Rosas,España,https://nala.es/products/crema-de-bano-rosas,,
+64493,50,Crema de Baño - Pistacho,Ducha y Baño,Crema de Baño,2.35,Pistacho,España,https://nala.es/products/crema-de-bano-pistacho,,
+64486,200,Gel de Ducha - Fresas,Ducha y Baño,Gel de Ducha,5.9,Fresas,España,https://nala.es/products/gel-de-ducha-fresas,,
+64492,50,Crema de Baño - Limón y Lima,Ducha y Baño,Crema de Baño,2.35,Limón,España,https://nala.es/products/crema-de-bano-limon-y-lima,,
+64491,50,Crema de Baño - Lila,Ducha y Baño,Crema de Baño,3.9,Lila,España,https://nala.es/products/crema-de-bano-lila,,
+64490,50,Crema de Baño - Rosa & Vainilla,Ducha y Baño,Crema de Baño,3.9,Vainilla,España,https://nala.es/products/crema-de-bano-rosa-vainilla,,
+65168,200,Gel de Ducha - Vainilla,Ducha y Baño,Gel de Ducha,5.9,Vainilla,España,https://nala.es/products/gel-de-ducha-vainilla,,
+65051,125,Bomba de Baño - Flores de Naranjo,Ducha y Baño,Bomba de Baño,3.9,Flores de Naranjo,España,https://nala.es/products/bomba-de-bano-flores-de-naranjo,,
+65035,200,Gel de ducha - Flores de Naranjo,Ducha y Baño,Gel de Ducha,5.9,Flores de Naranjo,España,https://nala.es/products/gel-de-ducha-flores-de-naranjo,,
+64204,125,Bomba de Baño - Vainilla,Ducha y Baño,Bomba de Baño,3.9,Vainilla,España,https://nala.es/products/bomba-de-bano-vainilla,,
+70476,125,Bomba de Baño - Tulipanes,Ducha y Baño,Bomba de Baño,3.9,Tulipanes,España,https://nala.es/products/bomba-de-bano-tulipanes,,
+64477,200,Gel de ducha con purpurina - Fresa dulce,Ducha y Baño,Gel de Ducha,7.9,Fresa dulce,España,https://nala.es/products/glitter-shower-gel-dulce-fresa,,
+70478,125,Bomba de baño - Melocotón brillante,Ducha y Baño,Bomba de Baño,3.9,Melocotón,España,https://nala.es/products/bomba-de-bano-brillante-melocoton,,
+64424,200,Gel de ducha - Caramelo salado y vainilla,Ducha y Baño,Gel de Ducha,5.9,Vainilla,España,https://nala.es/products/gel-de-ducha-caramelo-salado-vainilla,,
+30725,125,Bomba de Baño - Cereza,Ducha y Baño,Bomba de Baño,3.9,Cereza,España,https://nala.es/products/bomba-de-bano-cereza,,
+74204,150,Bomba de Baño - Corazón - Uvas Rojas,Ducha y Baño,Bomba de Baño,2.95,Uvas,España,https://nala.es/products/bano-bomba-tierra-rojo-uvas,,
+74214,125,Bomba de Baño - Peonías,Ducha y Baño,Bomba de Baño,3.9,Peonías,España,https://nala.es/products/bomba-de-bano-peonias,,
+70474,125,Bomba de Baño - Flor de Loto,Ducha y Baño,Bomba de Baño,2.5,Flor de Loto,España,https://nala.es/products/bomba-de-bano-flor-de-loto,,
+64427,200,Gel de ducha - Arándano y melocotón,Ducha y Baño,Gel de Ducha,5.9,Melocotón,España,https://nala.es/products/gel-de-ducha-arandano-melocoton,,
+64426,200,Gel de ducha - Fresa dulce,Ducha y Baño,Gel de Ducha,5.9,Fresa dulce,España,https://nala.es/products/gel-de-ducha-dulce-fresa,,
+64425,200,Gel de ducha - Citrus,Ducha y Baño,Gel de Ducha,5.9,Citrus,España,https://nala.es/products/gel-de-ducha-citrus,,
+74231,125,Bomba de baño de purpurina - Uvas rojas,Ducha y Baño,Bomba de Baño,3.9,Uvas,España,https://nala.es/products/glitter-bath-bomb-red-grapes,,
+70475,125,Bomba de baño - Semilla de uva,Ducha y Baño,Bomba de Baño,3.9,Semilla de uva,España,https://nala.es/products/bomba-de-bano-grafito,,
+64866,200,Gel de ducha - Uvas rojas,Ducha y Baño,Gel de Ducha,5.9,Uvas,España,https://nala.es/products/gel-ducha-rojo-uvas-1,,
+64812,125,Bomba de baño - Lima,Ducha y Baño,Bomba de Baño,3.9,Lima,España,https://nala.es/products/bomba-de-bano-cal,,
+64857,50,Crema de baño - Grapefruit,Ducha y Baño,Crema de Baño,3.9,Grapefruit,España,https://nala.es/products/crema-de-bano-pomelo,,
+65050,600,Sales de Baño - Rosas y Vainilla,Ducha y Baño,Sal de Baño,9.9,Rosas,España,https://nala.es/products/bano-sal-rosas-vainilla,,
+64869,200,Gel de ducha - Granada,Ducha y Baño,Gel de Ducha,5.9,Granada,España,https://nala.es/products/gel-ducha-granada,,
+65139,500,Gel de ducha - Café,Ducha y Baño,Gel de Ducha,8.9,Café,España,https://nala.es/products/gel-ducha-cafe-1,,
+64861,200,Gel de ducha - Semilla de uva,Ducha y Baño,Gel de Ducha,5.9,Semilla de uva,España,https://nala.es/products/gel-ducha-grapeseed-1,,
+65062,200,Gel de ducha - Cedro,Ducha y Baño,Gel de Ducha,5.9,Cedro,España,https://nala.es/products/gel-de-ducha-cedro,,
+64898,250,Jabón de manos - Aceite de cáñamo,Ducha y Baño,Jabon de manos,3.9,Cáñamo,España,https://nala.es/products/lavado-a-mano-aceite-de-canamo,,
+65015,200,Gel de ducha - Cereza,Ducha y Baño,Gel de Ducha,5.9,Cereza,España,https://nala.es/products/gel-de-ducha-cereza,,
+65004,200,Gel de ducha hidratante - Aceite de cáñamo,Ducha y Baño,Gel de Ducha,7.9,Cáñamo,España,https://nala.es/products/gel-de-ducha-hidratante-aceite-de-canamo,,
+64870,500,Gel de ducha - Uvas rojas,Ducha y Baño,Gel de Ducha,8.9,Uvas,España,https://nala.es/products/gel-de-ducha-uvas-rojas,,
+70422,100,Jabón natural - Cereza y plátano,Ducha y Baño,Jabon Natural,2.9,Cereza y plátano,España,https://nala.es/products/jabon-natural-cereza-platano,,
+65138,500,Gel de ducha - Cereza,Ducha y Baño,Gel de Ducha,8.9,Cereza,España,https://nala.es/products/gel-ducha-cereza-1,,
+64872,500,Gel de ducha - Semilla de uva,Ducha y Baño,Gel de Ducha,8.9,Semilla de uva,España,https://nala.es/products/gel-ducha-semilla-de-uva,,
+64871,500,Gel de ducha - Grapefruit,Ducha y Baño,Gel de Ducha,8.9,Grapefruit,España,https://nala.es/products/gel-ducha-pomelo-2,,
+64863,200,Gel de ducha - Grapefruit,Ducha y Baño,Gel de Ducha,5.9,Grapefruit,España,https://nala.es/products/gel-ducha-pomelo-1,,
+64834,250,Jabón de manos - Grapefruit,Ducha y Baño,Jabon de manos,2.9,Grapefruit,España,https://nala.es/products/lavado-a-mano-de-pomelo,,
+64378,200,Gel de ducha exfoliante e hidratante - Kiwi,Ducha y Baño,Gel de Ducha,7.9,Kiwi,España,https://nala.es/products/exfoliante-hidratante-gel-de-ducha-kiwi,,
+64370,200,Gel de ducha - Azafrán,Ducha y Baño,Gel de Ducha,5.9,Azafrán,España,https://nala.es/products/gel-ducha-affron,,
+64859,50,Crema de baño - Coco,Ducha y Baño,Crema de Baño,3.9,Coco,España,https://nala.es/products/crema-de-bano-de-coco,,
+65137,500,Gel de ducha - Lila,Ducha y Baño,Gel de Ducha,8.9,Lila,España,https://nala.es/products/gel-ducha-lilac-1,,
+70421,100,Jabón natural - Lila,Ducha y Baño,Jabon Natural,2.9,Lila,España,https://nala.es/products/jabon-natural-lila,,
+64867,200,Gel de ducha - Coco y vainilla,Ducha y Baño,Gel de Ducha,5.9,Coco,España,https://nala.es/products/gel-de-ducha-coco-vainilla,,
+64379,200,Gel de ducha exfoliante e hidratante - Fresa,Ducha y Baño,Gel de Ducha,7.9,Fresa,España,https://nala.es/products/exfoliante-hidratante-gel-de-ducha-fresa,,
+65001,200,Espuma de baño - Uvas rojas,Ducha y Baño,Espuma de Baño,6.9,Uvas,España,https://nala.es/products/espuma-de-bano-uvas-rojas,,
+64371,200,Gel de ducha - Vetiver,Ducha y Baño,Gel de Ducha,5.9,Vetiver,España,https://nala.es/products/gel-de-ducha-vetiver,,
+64862,200,Gel de ducha - Flores de primavera,Ducha y Baño,Gel de Ducha,5.9,Flores de primavera,España,https://nala.es/products/gel-ducha-flores-primavera,,
+65136,300,Leche de Baño - Rosa y Vainilla,Ducha y Baño,Leche de Baño,9.9,Vainilla,España,https://nala.es/products/bano-leche-rosa-vainilla,,
+65063,200,Gel de ducha - Ámbar y Bourbon,Ducha y Baño,Gel de Ducha,5.9,Ámbar y Bourbon,España,https://nala.es/products/gel-de-ducha-ambar-borbon,,
+64381,200,Gel de ducha exfoliante e hidratante - Grapefruit,Ducha y Baño,Gel de Ducha,7.9,Grapefruit,España,https://nala.es/products/exfoliante-hidratante-gel-de-ducha-pomelo,,
+64814,100,Jabón natural con esponja vegetal - Vainilla,Ducha y Baño,Jabon Natural,2.9,Vainilla,España,https://nala.es/products/jabon-natural-con-esponja-vegetal-y-vainilla,,
+70416,100,Jabón natural con esponja vegetal - Lima,Ducha y Baño,Jabon Natural,2.9,Lima,España,https://nala.es/products/jabon-natural-con-esponja-vegetal-y-lima,,
+65000,200,Espuma de Baño - Lila,Ducha y Baño,Espuma de Baño,6.9,Lila,España,https://nala.es/products/bano-espuma-lilac,,
+64813,50,Crema de baño - Plátano,Ducha y Baño,Crema de Baño,3.9,Plátano,España,https://nala.es/products/crema-de-bano-platano,,
+64838,200,Espuma de Baño - Fresa,Ducha y Baño,Espuma de Baño,6.9,Fresa,España,https://nala.es/products/espuma-de-bano-fresa,,
+64811,125,Bomba de baño - Grosella negra,Ducha y Baño,Bomba de Baño,3.9,Grosella negra,España,https://nala.es/products/bomba-de-bano-grosella-negra,,
+65104,600,Sal marina de baño - Lila,Ducha y Baño,Sal de Baño,9.9,Lila,España,https://nala.es/products/bano-mar-sal-lila,,
+64899,250,Lavado a mano - Uvas rojas,Ducha y Baño,Jabon de manos,3.9,Uvas,España,https://nala.es/products/uvas-rojas-lavadas-a-mano,,
+64809,125,Bomba de Baño - Purpurina Lila,Ducha y Baño,Bomba de Baño,2.5,Purpurina Lila,España,https://nala.es/products/bomba-de-bano-glitter-lila,,
+64853,125,Bomba de baño - Aceite de cáñamo,Ducha y Baño,Bomba de Baño,3.9,Cáñamo,España,https://nala.es/products/bomba-de-bano-aceite-de-canamo,,
+65005,200,Gel de ducha - Lila,Ducha y Baño,Gel de Ducha,5.9,Lila,España,https://nala.es/products/gel-de-ducha-lilac,,
+64380,200,Gel de ducha exfoliante e hidratante - Frambuesa,Ducha y Baño,Gel de Ducha,7.9,Frambuesa,España,https://nala.es/products/exfoliante-hidratante-gel-de-ducha-frambuesa,,
+65002,200,Espuma de baño - Grapefruit,Ducha y Baño,Espuma de Baño,4.9,Grapefruit,España,https://nala.es/products/espuma-de-bano-pomelo-1,,
+70429,125,Bomba de baño - Albahaca,Ducha y Baño,Bomba de Baño,3.9,Albahaca,España,https://nala.es/products/bano-bomba-basil,,
+64868,200,Gel de ducha - Café,Ducha y Baño,Gel de Ducha,5.9,Café,España,https://nala.es/products/gel-de-ducha-cafe,,
+70420,100,Jabón natural - Algas,Ducha y Baño,Jabon Natural,2.9,Algas,España,https://nala.es/products/jabon-natural-de-algas,,
+64283,150,Aceite de ducha - Uvas rojas,Ducha y Baño,Aceite de Ducha,7.9,Uvas,España,https://nala.es/products/ducha-aceite-red-grapes,,
+64377,100,Jabón brillante - Cítricos,Ducha y Baño,Jabon Natural,2.9,Cítricos,España,https://nala.es/products/jabon-brillante-citrus,,
+64282,150,Aceite de ducha - Grapefruit,Ducha y Baño,Aceite de Ducha,7.9,Grapefruit,España,https://nala.es/products/aceite-de-ducha-pomelo,,
+64284,150,Aceite de Ducha - Rosas y Vainilla,Ducha y Baño,Aceite de Ducha,7.9,Rosas,España,https://nala.es/products/aceite-de-ducha-rosas-vainilla,,
+64200,125,Bomba de Baño - Frambuesa y Vainilla,Ducha y Baño,Bomba de Baño,3.9,Vainilla,España,https://nala.es/products/bomba-de-bano-frambuesa-vainilla,,
+64201,125,Bomba de Baño - Caramelo y Vainilla,Ducha y Baño,Bomba de Baño,3.9,Vainilla,España,https://nala.es/products/bomba-de-bano-caramelo-vainilla,,
+64202,125,Bomba de Baño - Café y Plátano,Ducha y Baño,Bomba de Baño,3.9,Café,España,https://nala.es/products/bano-bomba-cafe-platano,,
+30794,125,Bomba de Baño - Papaya,Ducha y Baño,Bomba de Baño,3.9,Papaya,España,https://nala.es/products/bomba-de-bano-papaya,,
+30784,125,Bomba de Baño - Café,Ducha y Baño,Bomba de Baño,3.9,Café,España,https://nala.es/products/bano-bomba-cafe,,
+30759,100,Jabón natural - Uvas rojas,Ducha y Baño,Jabon Natural,2.9,Uvas,España,https://nala.es/products/jabon-natural-uvas-rojas,,
+30755,100,Jabón natural - Naranja,Ducha y Baño,Jabon Natural,2.9,Naranja,España,https://nala.es/products/naranja-jabon-natural,,
+30620,600,Sal marina de baño - Grapefruit,Ducha y Baño,Sal de Baño,6.9,Grapefruit,España,https://nala.es/products/bano-mar-sal-pomelo,,
+30748,100,Jabón Natural Anticelulítico - Grapefruit,Ducha y Baño,Jabon Natural,2.9,Grapefruit,España,https://nala.es/products/jabon-natural-anticelulitico-pomelo,,
+30754,100,Jabón natural - Mango,Ducha y Baño,Jabon Natural,2.9,Mango,España,https://nala.es/products/jabon-natural-mango,,
+30752,100,Jabón natural - Limón,Ducha y Baño,Jabon Natural,2.9,Limón,España,https://nala.es/products/jabon-natural-limon,,
+30741,100,Jabón natural - Arándanos y moras,Ducha y Baño,Jabon Natural,2.9,Arándanos y moras,España,https://nala.es/products/jabon-natural-arandanos-moras,,
+30745,100,Jabón natural - Coco,Ducha y Baño,Jabon Natural,2.9,Coco,España,https://nala.es/products/jabon-natural-de-coco,,
+30735,100,Jabón natural - Anticelulítico,Ducha y Baño,Jabon Natural,3.9,Anticelulítico,España,https://nala.es/products/jabon-natural-anticelulitico,,
+30732,125,Bomba de baño - Grapefruit,Ducha y Baño,Bomba de Baño,3.9,Grapefruit,España,https://nala.es/products/bomba-de-bano-pomelo,,
+30729,125,Bomba de Baño - Fresco,Ducha y Baño,Bomba de Baño,3.9,Fresco,España,https://nala.es/products/bomba-de-bano-fresh,,
+30731,125,Bomba de baño - Mango,Ducha y Baño,Bomba de Baño,3.9,Mango,España,https://nala.es/products/bomba-de-bano-mango,,
+30730,125,Bomba de Baño - Fresa,Ducha y Baño,Bomba de Baño,3.9,Fresa,España,https://nala.es/products/bomba-de-bano-fresas,,
+30723,125,Bomba de Baño - Granada,Ducha y Baño,Bomba de Baño,3.9,Granada,España,https://nala.es/products/bomba-de-bano-granada,,
+30724,125,Bomba de Baño - Rosas y Vainilla,Ducha y Baño,Bomba de Baño,2.5,Rosas,España,https://nala.es/products/bomba-de-bano-rosas-vainilla,,
+30722,50,Crema de baño - Café,Ducha y Baño,Crema de Baño,2.35,Café,España,https://nala.es/products/bano-crema-cafe,,
+30720,50,Crema de baño - Uvas rojas,Ducha y Baño,Crema de Baño,3.9,Uvas,España,https://nala.es/products/crema-de-bano-uvas-rojas,,
+30718,50,Crema de Baño - Lavanda,Ducha y Baño,Crema de Baño,3.9,Lavanda,España,https://nala.es/products/crema-de-bano-lavanda,,
+30719,50,Crema de baño - Lemongrass,Ducha y Baño,Crema de Baño,3.9,Lemongrass,España,https://nala.es/products/crema-de-bano-lemongrass,,
+30666,300,Leche de baño - Lavanda,Ducha y Baño,Leche de Baño,9.9,Lavanda,España,https://nala.es/products/bano-leche-lavanda,,
+30667,300,Leche de baño - Uvas rojas,Ducha y Baño,Leche de Baño,8.9,Uvas,España,https://nala.es/products/bano-leche-uvas-rojas,,
+64447,125,Bomba de Baño - Arándano y Melocotón,Ducha y Baño,Bomba de Baño,3.9,Melocotón,España,https://nala.es/products/bomba-de-bano-arandano-melocoton,,
+64489,140,Bomba de Baño Efervescente Corazón - Lila - LOVE,Ducha y Baño,Bomba de Baño,5.9,Lila - LOVE,España,https://nala.es/products/bomba-de-bano-efervescente-corazon-lila-love,,
+64488,140,Bomba de Baño Efervescente Corazón - Haba Tonka Picante - HUG,Ducha y Baño,Bomba de Baño,5.9,Haba Tonka Picante - HUG,España,https://nala.es/products/bomba-de-bano-efervescente-corazon-haba-tonka-picante-hug,,
+64444,135,Bomba de Baño - Luna - Caramelo Salado y Vainilla,Ducha y Baño,Bomba de Baño,5.9,Vainilla,España,https://nala.es/products/bomba-de-bano-luna-caramelo-salado-vainilla,,
+64410,125,Bomba de Baño - Membrillo,Ducha y Baño,Bomba de Baño,3.9,Membrillo,España,https://nala.es/products/bano-bomba-quince,,
+65099,200,Gel de ducha - Cóctel de frutas,Ducha y Baño,Gel de Ducha,5.9,Cóctel de frutas,España,https://nala.es/products/gel-ducha-fruta-coctel,,
+64446,125,Bomba de Baño - Fresa Dulce,Ducha y Baño,Bomba de Baño,3.9,Fresa Dulce,España,https://nala.es/products/bomba-de-bano-dulce-fresa,,
+65034,200,Gel de ducha - Melocotón,Ducha y Baño,Gel de Ducha,5.9,Melocotón,España,https://nala.es/products/gel-de-ducha-melocoton,,
+64445,125,Bomba de baño - Cítricos,Ducha y Baño,Bomba de Baño,3.9,Cítricos,España,https://nala.es/products/bomba-de-bano-citrus,,
+70418,100,Jabón natural - Ylang Ylang,Ducha y Baño,Jabon Natural,2.9,Ylang Ylang,España,https://nala.es/products/jabon-natural-ylang-ylang,,
+30758,100,Jabón natural - Granada,Ducha y Baño,Jabon Natural,2.9,Granada,España,https://nala.es/products/jabon-natural-granada,,
+70402,25,Exfoliante labial - Granada,Rostro,Exfoliante Labial,3.9,Granada,España,https://nala.es/products/exfoliante-labial-granada,,
+64223,11,Bálsamo labial - Vainilla,Rostro,Bálsamo labial,3.9,Vainilla,España,https://nala.es/products/balsamo-labial-vainilla,,
+64836,11,Bálsamo labial - Cereza,Rostro,Bálsamo labial,3.9,Cereza,España,https://nala.es/products/balsamo-labial-cereza,,
+64222,11,Bálsamo labial - Grapefruit,Rostro,Bálsamo labial,3.9,Grapefruit,España,https://nala.es/products/balsamo-labial-pomelo,,
+64221,11,Bálsamo labial - Cóctel de frutas,Rostro,Bálsamo labial,3.9,Cóctel,España,https://nala.es/products/balsamo-labial-coctel-de-frutas,,
+64837,11,Bálsamo labial - Sandía,Rostro,Bálsamo labial,3.9,Sandía,España,https://nala.es/products/balsamo-labial-sandia,,
+70482,11,Bálsamo labial - Coco y vainilla,Rostro,Bálsamo labial,3.9,Coco,España,https://nala.es/products/balsamo-labial-coco-vainilla,,
+64224,11,Bálsamo labial - Fresa,Rostro,Bálsamo labial,3.9,Fresa,España,https://nala.es/products/balsamo-labial-fresa,,
+30688,11,Bálsamo labial - Granada,Rostro,Bálsamo labial,3.9,Granada,España,https://nala.es/products/balsamo-labial-granada,,
+30689,11,Bálsamo labial - Mango,Rostro,Bálsamo labial,3.9,Mango,España,https://nala.es/products/balsamo-labial-mango,,
+64839,11,Bálsamo labial - Café,Rostro,Bálsamo labial,3.9,Café,España,https://nala.es/products/balsamo-labial-cafe,,
+70483,11,Bálsamo labial - Rosas y menta,Rostro,Bálsamo labial,3.9,Rosas,España,https://nala.es/products/balsamo-labial-rosas-menta,,
+30783,25,Exfoliante labial - Mango,Rostro,Exfoliante Labial,4.9,Mango,España,https://nala.es/products/exfoliante-labial-mango,,
+64218,25,Exfoliante labial - Vainilla,Rostro,Exfoliante Labial,4.9,Vainilla,España,https://nala.es/products/exfoliante-labial-vainilla,,
+64219,25,Exfoliante labial - Fresa,Rostro,Exfoliante Labial,4.9,Fresa,España,https://nala.es/products/exfoliante-labial-fresa,,
+64217,25,Exfoliante labial - Grapefruit,Rostro,Exfoliante Labial,4.9,Grapefruit,España,https://nala.es/products/exfoliante-labial-pomelo,,
+64833,25,Exfoliante labial - Sandía,Rostro,Exfoliante Labial,4.9,Sandía,España,https://nala.es/products/exfoliante-labial-sandia,,
+64832,25,Exfoliante labial - Cereza,Rostro,Exfoliante Labial,4.9,Cereza,España,https://nala.es/products/lip-scrub-cherry,,
+64835,25,Exfoliante labial - Café,Rostro,Exfoliante Labial,4.9,Café,España,https://nala.es/products/exfoliante-labial-cafe,,
+64216,25,Exfoliante labial - Cóctel de frutas,Rostro,Exfoliante Labial,4.9,Cóctel,España,https://nala.es/products/lip-scrub-fruit-cocktail,,
+64213,11,Bálsamo labial brillante - Granada,Rostro,Bálsamo labial,4.9,Granada,España,https://nala.es/products/balsamo-labial-brillante-granada,,
+70434,0,Agua Micelar - Aceite de Argán y Aloe Vera,Rostro,Limpiador Facial,5.5,Argán,España,https://nala.es/products/agua-micelar-aceite-de-argan-aloe-vera,,
+70412,0,Tónico Facial Pieles Mixtas - Flores de Naranjo,Rostro,Tónico Facial,5.5,Flores de Naranjo,España,https://nala.es/products/combinacion-piel-facial-toner-naranja-blossom,,
+70413,75,Tónico Facial Piel Seca - Rosas,Rostro,Tónico Facial,6.9,Rosas,España,https://nala.es/products/dry-skin-facial-toner-roses,,
+70411,0,Tónico Facial Piel Grasa - Aciano,Rostro,Tónico Facial,6.9,Aciano,España,https://nala.es/products/aceite-piel-facial-toner-cornflower,,
+64386,0,"Mascarilla facial hidratante - espirulina en polvo, proteína de trigo, aceite de aguacate",Rostro,Mascarilla Facial,6.9,Aguacate,España,https://nala.es/products/mascarilla-hidratante-espirulina-polvo-proteina-de-trigo-aceite-de-aguacate,,
+64457,0,"Mascarilla Facial Calmante - Aceite de Espino Amarillo, Aloe Vera, Extracto de Caléndula",Rostro,Mascarilla Facial,6.9,Aloe,España,https://nala.es/products/mascarilla-calmante-espino-cerval-de-mar-fruta-aceite-aloe-vera-calendula-extracto,,
+64237,30,"Serum Facial Concentrado Antipolución - Prasinoguard, Brócoli, Camomila",Rostro,Serum Facial,7.8,Prasinoguard,España,https://nala.es/products/anti-contaminacion-suero-facial-concentrado-prasinoguardia-brocoli-manzanilla,,
+70458,0,Exfoliante facial hidratante - Albaricoque en polvo,Rostro,Exfoliante Facial,7.9,Albaricoque en polvo,España,https://nala.es/products/exfoliante-facial-hidratante-polvo-de-albaricoque,,
+74280,120,"Exfoliante Facial Fino - Kiwi, Aceite de Oliva, Geranio",Rostro,Exfoliante Facial,7.9,Kiwi,España,https://nala.es/products/exfoliante-facial-fino-kiwi-aceite-de-oliva-geranio,,
+74288,120,Exfoliante Facial Medio - Harina de Maíz y Canela,Rostro,Exfoliante Facial,7.9,Harina de Maíz y Canela,España,https://nala.es/products/exfoliante-medio-facial-harina-de-maiz-canela,,
+74281,0,Exfoliante Facial Suave - Fresa y Manteca de Mango,Rostro,Exfoliante Facial,7.9,Fresa,España,https://nala.es/products/exfoliante-facial-suave-fresa-mango-mantequilla,,
+70472,0,Exfoliante facial profundo - Café y aceite de nuez de macadamia,Rostro,Exfoliante Facial,7.9,Café,España,https://nala.es/products/exfoliante-facial-profundo-aceite-de-cafe-nuez-de-macadamia,,
+74279,0,Gel limpiador facial purificante,Rostro,Limpiador Facial,8.9,Cañamo,España,https://nala.es/products/gel-limpiador-facial-purificante,,
+30676,200,Espuma limpiadora facial para piel normal - Camomila,Rostro,Limpiador Facial,9.9,Camomila,España,https://nala.es/products/espuma-limpiadora-piel-normal-manzanilla,,
+30677,200,Espuma limpiadora facial para piel seca - Aloe Vera,Rostro,Limpiador Facial,9.9,Aloe,España,https://nala.es/products/espuma-limpiadora-facial-para-piel-seca-aloe-vera,,
+30678,200,Espuma limpiadora facial para piel grasa - Caléndula,Rostro,Limpiador Facial,9.9,Caléndula,España,https://nala.es/products/espuma-limpiadora-aceite-piel-calendula,,
+64826,0,"Leche Limpiadora - Aceite de Cáñamo, Aguacate, Aloe Vera",Rostro,Limpiador Facial,9.9,Cáñamo,España,https://nala.es/products/leche-limpiadora-aceite-de-canamo-avocado-aloe-vera,,
+70461,100,Mascarilla Extra Hidratante - Manteca de Cacao & Polvo & Manteca de Karité,Rostro,Mascarilla Facial,9.9,Karité,España,https://nala.es/products/mascarilla-facial-hidratante-chocolate,,
+64293,50,"Mascarilla Facial Matificante - Aceite de Lavanda, Arcilla Blanca, Aceite de Almendras Dulces",Rostro,Mascarilla Facial,9.9,Lavanda,España,https://nala.es/products/mascarilla-facial-matificante-aceite-de-lavanda-arcilla-blanca-aceite-de-almendras-dulces,,
+74287,0,"Crema Limpiadora Facial - Aceite de Almendras, Rosas, Miel, Karité",Rostro,Limpiador Facial,9.9,Rosas,España,https://nala.es/products/crema-limpiadora-facial-aceite-de-almendras-miel-shea,,
+64459,0,"Mascarilla facial calmante - Polvo de hibisco, extracto de pepino, agua de rosas",Rostro,Mascarilla Facial,9.9,Pepino,España,https://nala.es/products/mascarilla-calmante-hibisco-polvo-extracto-de-pepino-agua-de-rosa,,
+64461,0,"Mascarilla facial hidratante intensa - Cafeína, manteca de cacao, manteca de karité, aceite de almendras",Rostro,Mascarilla Facial,9.9,Karité,España,https://nala.es/products/mascarilla-facial-hidratante-intensa-cafeina-mantequilla-de-cacao-mantequilla-de-karite-aceite-de-almendras,,
+64458,50,"Mascarilla facial antiacné - Ácido salicílico, Niacinamida, Extracto de hamamelis, Aceite del árbol del té",Rostro,Mascarilla Facial,9.9,Ácido salicílico,España,https://nala.es/products/mascarilla-facial-antiacne-acido-salicilico-niacinamida-extracto-de-hamamelis-aceite-de-arbol-de-te,,
+64462,0,"Mascarilla Facial Energizante - Aceite de Arroz, Aceite de Semilla de Limón, Vitamina C, Extracto de Gardenia",Rostro,Mascarilla Facial,9.9,Limón,España,https://nala.es/products/energizing-face-mask-rice-oil-lemon-seed-oil-vitamin-c-gardenia-extract,,
+64385,0,"Mascarilla facial iluminadora - Extracto de cúrcuma, Vitamina C",Rostro,Mascarilla Facial,9.9,Extracto de cúrcuma,España,https://nala.es/products/mascarilla-iluminadora-extracto-de-curcuma-vitamina-c,,
+64460,0,"Mascarilla Facial Poros Agrandados y Puntos Negros - Carbón Vegetal en Polvo, Niacinamida, Aceite de Menta Piperita",Rostro,Mascarilla Facial,9.9,Menta,España,https://nala.es/products/poros-agrandados-puntos-negros-mascara-carbon-polvo-niacinamida-peppermint-aceite,,
+64269,30,Suero facial hidratante profundo - Ácido hialurónico 5% + Pantenol 1%,Rostro,Serum Facial,12.9,Ácido hialurónico,España,https://nala.es/products/suero-facial-hidratante-profundo-acido-hialuronico-5-pantenol-1,,
+64272,30,Serum Facial Luminoso - Vitamina C 20% + Aloe Vera 2%,Rostro,Serum Facial,12.9,Aloe,España,https://nala.es/products/suero-facial-iluminador-vitamina-c-20-aloe-vera-2,,
+64827,15,"Crema Contorno de Ojos Luminosa - Ojeras e Hinchazón - Cafeína, Karité, Té Verde",Rostro,Contorno de Ojos,12.9,Karité,España,https://nala.es/products/crema-ojeras-iluminadora-ojeras-ojeras-cafeina-shea-te-verde,,
+64828,15,"Crema Hidratante Contorno de Ojos - Aceite de Almendras, Aceite de Jojoba, Agua de Lavanda",Rostro,Contorno de Ojos,12.9,Jojoba,España,https://nala.es/products/crema-hidratante-ojos-aceite-de-almendras-aceite-de-jojoba-lavanda-agua,,
+64831,30,Sérum Facial Regenerador - Extracto de Malva y Gotu Kola,Rostro,Serum Facial,12.9,Extracto de Malva ,España,https://nala.es/products/suero-facial-hidratante-extracto-de-malva-gotu-kola,,
+64274,0,Serum Facial Rellenador y Reafirmante - 10% Péptidos de Colágeno + Aminoácidos,Rostro,Serum Facial,12.9,Péptidos de Colágeno,España,https://nala.es/products/suero-facial-reafirmante-10-peptidos-de-colageno-aminoacidos,,
+64273,0,Suero Facial Exfoliante Alisante Textura - AHA Ácido glicólico 5%.,Rostro,Exfoliante Facial,12.9,Ácido glicólico,España,https://nala.es/products/textura-suavizante-exfoliante-serum-facial-aha-acido-glicolico-5,,
+64275,0,Serum para ojos luminosos y energizantes - 5% cafeína + extracto de té verde,Rostro,Contorno de Ojos,12.9,Cafeína,España,https://nala.es/products/extracto-de-te-verde-energizante-brillante-suero-ojo-5-cafeina,,
+64270,30,Sérum Facial Poros Dilatados y Puntos Negros - Ácido Salicílico 2%,Rostro,Serum Facial,12.9,Ácido Salicílico,España,https://nala.es/products/serum-facial-poros-dilatados-y-puntos-negros-acido-salicilico-2,,
+30671,50,Crema Facial Matificante - Piel Grasa - Caléndula y Aloe Vera,Rostro,Crema Facial,13.9,Caléndula,España,https://nala.es/products/crema-facial-matificante-aceite-calendula-aloe-vera,,
+30673,50,Crema Facial Hidratante - Piel Normal - Camomila,Rostro,Crema Facial,13.9,Piel Normal - Camomila,España,https://nala.es/products/crema-facial-hidratante-piel-normal-manzanilla,,
+30672,50,Crema Nutritiva para el Rostro - Piel Seca - Karité y Jojoba,Rostro,Crema Facial,13.9,Karité,España,https://nala.es/products/crema-facial-nutritiva-para-pieles-secas-de-jojoba,,
+74285,30,Aceite facial - Piel seca,Rostro,Aceite Facial,13.9,Piel seca,España,https://nala.es/products/aceite-facial-piel-seca,,
+65020,50,Crema Facial Matificante SPF 50 - Pieles mixtas - Escaramujo y Aceite de Oliva,Rostro,Crema Facial,14.9,Escaramujo ,España,https://nala.es/products/crema-facial-matificante-spf-50-aceite-de-oliva-para-pieles-mixtas,,
+65021,50,Crema Antiacné SPF 50 - Piel con Acné - Árbol de Té y Romero,Rostro,Crema Facial,14.9,Arbol de Té,España,https://nala.es/products/crema-anti-acne-spf-50-acne-piel-propensa-te-arbol-romero,,
+65019,50,Crema Facial Hidratante SPF 50 - Piel Normal - Extracto de Siempreviva y Margarita,Rostro,Crema Facial,14.9,Extracto de Siempreviva,España,https://nala.es/products/crema-facial-hidratante-spf-50-piel-normal-extracto-de-siempreviva-margarita,,
+30674,50,Crema facial de día antiedad - Pieles maduras - Aceite de aguacate,Rostro,Crema Facial,15.9,Aguacate,España,https://nala.es/products/anti-edad-crema-facial-de-dia-piel-madura-avocado-aceite,,
+65135,50,Crema facial anticontaminación - Pieles mixtas - Algas y pepino,Rostro,Crema Facial,15.9,Pepino,España,https://nala.es/products/antipolucion-crema-facial-combinacion-piel-algas-pepino,,
+74286,50,Crema facial hidratante intensiva - Piel seca,Rostro,Crema Facial,15.9,Piel seca,España,https://nala.es/products/crema-facial-hidratante-intensiva-piel-seca,,
+30762,30,Crema Contorno de Ojos - Pepino y Algas,Rostro,Contorno de Ojos,16.9,Pepino,España,https://nala.es/products/contorno-de-ojos-crema-pepino-algas,,
+30765,50,Crema facial - Piel mixta - Células madre y aceite de germen de trigo,Rostro,Crema Facial,19.9,Celulas madre,España,https://nala.es/products/crema-facial-combinacion-celulas-madre-de-la-piel-aceite-de-germen-de-trigo,,
+30763,30,Serum Facial Reafirmante - Acmella & Achicoria,Rostro,Serum Facial,19.9,Acmella & Achicoria,España,https://nala.es/products/suero-facial-reafirmante-acmella-chicory,,
+64494,50,"Crema Antiacné – Niacinamida, Ácido Salicílico, Savia de Abedul y Aceite de Árbol de Té",Rostro,Crema Facial,19.9,Ácido Salicílico,España,https://nala.es/products/crema-antiacne-niacinamida-acido-salicilico-savia-de-abedul-y-aceite-de-arbol-de-te,,
+64495,50,"Crema Hidratante – Piel Normal – Extracto de Caléndula, Ginkgo Biloba y Aceite de Semillas de Uva",Rostro,Crema Facial,19.9,Caléndula,España,https://nala.es/products/crema-hidratante-piel-normal-extracto-de-calendula-ginkgo-biloba-y-aceite-de-semillas-de-uva,,
+64496,50,"Crema Control Sebo & Matificante – Piel Grasa – Extracto de Kale, Té Verde, Avena y Aceite de Germen de Maíz",Rostro,Crema Facial,19.9,Extracto de kale,España,https://nala.es/products/crema-control-sebo-matificante-piel-grasa-extracto-de-kale-te-verde-avena-y-aceite-de-germen-de-maiz,,
+64497,50,"Crema Poros Dilatados & Puntos Negros – Piel Mixta – Carbón de Bambú, Ácido Salicílico y Extracto de Hamamelis",Rostro,Crema Facial,19.9,Ácido Salicílico,España,https://nala.es/products/crema-poros-dilatados-puntos-negros-piel-mixta-carbon-de-bambu-acido-salicilico-y-extracto-de-hamamelis,,
+30766,50,Crema facial reafirmante - Piel madura - Ácido hialurónico y Acmella,Rostro,Crema Facial,22.9,Ácido hialurónico,España,https://nala.es/products/crema-facial-reafirmante-antiarrugas-piel-madura-espino-cerval-de-mar-amaricoria,,
+64830,30,Serum Contorno de Ojos Luminoso - Ojeras y Bolsas - Cafeína,Rostro,Contorno de Ojos,12.9,Cafeína,España,https://nala.es/products/aclarar-ojeras-ojeras,,
+30675,50,Crema facial antiacné - Pieles propensas al acné - Aloe Vera y Aceite de Argán,Rostro,Crema Facial,15.9,Aloe,España,https://nala.es/products/crema-facial-antiacne-piel-propensa-al-acne-aloe-vera-aceite-de-argan,,
+30692,200,Șampon Păr Gras - MușețelAdaugă la .,Cabello,Champú,39.9,Manzanilla,Rumania,https://nala.ro/products/sampon-par-gras-musetel,Champú,Champú
+64422,200,"Șampon protector Păr Vopsit - Extract Orez, Anghinare, Proteine Mazăre, Ovăz, Porumb, Soia și GrâuAdaugă la .",Cabello,Champú,29.9,Arroz,Rumania,https://nala.ro/products/sampon-protector-par-vopsit-extract-orez-anghinare-proteine-mazare-ovaz-porumb-soia-si-grau,Champú,Champú
+70455,58,Șampon solid Păr Deteriorat - GardenieAdaugă la .,Cabello,Champu Solido,24.9,Gardenia,Rumania,https://nala.ro/products/sampon-solid-par-deteriorat-gardenie,Champú Sólido,Champu Solido
+70454,58,Șampon solid Păr Gras - LămâițăAdaugă la .,Cabello,Champu Solido,24.9,Limoncillo,Rumania,https://nala.ro/products/sampon-solid-par-gras-lamaita,Champú Sólido,Champu Solido
+70456,58,Șampon solid Scalp Sensibil - CăpșuniAdaugă la .,Cabello,Champu Solido,24.9,Fresa,Rumania,https://nala.ro/products/sampon-solid-scalp-sensibil-capsuni,Champú Sólido,Champu Solido
+64240,200,"Șampon Stimulare și Fortifiere - Cafeină, Piper negru, Extract 7 planteAdaugă la .",Cabello,Champú,39.9,Cafeína,Rumania,https://nala.ro/products/sampon-stimulare-crestere-si-fortifiere-cafeina-piper-negru-extract-7-plante,Champú,Champú
+64307,200,"Șampon Violet Păr Blond - Extract Absolut Violete, Alge Marine, Lămâie VerdeAdaugă la .",Cabello,Champú,49.9,Violeta,Rumania,https://nala.ro/products/sampon-violet-par-blond-extract-absolut-violete-alge-marine-lamaie-verde,Champú,Champú
+70436,200,Șampon Volum și Strălucire - Sare de la Marea Moartă & SpirulinăAdaugă la .,Cabello,Champú,39.9,Espirulina,Rumania,https://nala.ro/products/sampon-volum-si-stralucire-sare-de-la-marea-moarta-spirulina,Champú,Champú
+64287,200,"Balsam Păr Blond - Nucă de Cocos, Rozmarin, LămâițăAdaugă la .",Cabello,Acondicionador,39.9,Coco,Rumania,https://nala.ro/products/balsam-par-blond-ulei-nuca-de-cocos-ulei-rozmarin-ulei-lamaita,Acondicionador,Acondicionador
+30700,200,Balsam Păr Gras - MușețelAdaugă la .,Cabello,Acondicionador,24.9,Manzanilla,Rumania,https://nala.ro/products/balsam-par-gras-musetel,Acondicionador,Acondicionador
+70438,200,Balsam păr Hidratant Regenerant - Jojoba & TrandafiriAdaugă la .,Cabello,Acondicionador,29.9,Rosas,Rumania,https://nala.ro/products/balsam-par-hidratant-regenerant-jojoba-trandafiri,Acondicionador,Acondicionador
+74293,200,"Balsam Păr Hidratare Intensă - Migdale, Salvie, Vanilie, MiereAdaugă la .",Cabello,Acondicionador,39.9,Almendras,Rumania,https://nala.ro/products/balsam-par-hidratare-intensa-ulei-migdale-salvie-vanilie-miere,Acondicionador,Acondicionador
+70471,200,"Balsam Păr Volum & Strălucire - Jojoba, Spirulină, Flori PortocalAdaugă la .",Cabello,Acondicionador,29.9,Jojoba,Rumania,https://nala.ro/products/balsam-par-volum-stralucire-jojoba-spirulina-flori-portocal,Acondicionador,Acondicionador
+64423,200,"Balsam protector Par Vopsit - Extract Orez, Anghinare, Proteine Mazare, Ovaz, Porumb, Soia si GrauAdaugă la .",Cabello,Acondicionador,29.9,Arroz,Rumania,https://nala.ro/products/balsam-protector-par-vopsit-extract-orez-anghinare-proteine-mazare-ovaz-porumb-soia-si-grau,Acondicionador,Acondicionador
+30702,200,Mască Păr - Nucă de CocosAdaugă la .,Cabello,Mascarilla,29.9,Coco,Rumania,https://nala.ro/products/masca-par-nuca-de-cocos,Mascarilla Facial,Mascarilla
+30798,200,Mască păr Volum și Strălucire - Argan & SpirulinăAdaugă la .,Cabello,Mascarilla,29.9,Espirulina,Rumania,https://nala.ro/products/masca-par-volum-si-stralucire-argan-spirulina,Mascarilla Facial,Mascarilla
+74294,200,"Mască Tratament păr Hidratare Intensă - Ulei Migdale, Miere, VanilieAdaugă la .",Cabello,Tratamiento Capilar,39.9,Almendras,Rumania,https://nala.ro/products/masca-tratament-hidratare-intensa-ulei-migdale-miere-vanilie,Tratamiento Capilar,Tratamiento Capilar
+74296,200,"Tratament Mască Stimulare Creștere și Fortifiere - Mentă Sălbatică, Miere, Apă TrandafiriAdaugă la .",Cabello,Tratamiento Capilar,39.9,Menta,Rumania,https://nala.ro/products/tratament-scalp-radacini-sanatoase-menta-salbatica-apa-trandafiri,Tratamiento Capilar,Tratamiento Capilar
+74295,55,"Tratament Scalp Anti Mătreață - Ulei Mentă Sălbatică, Cocos, CearăAdaugă la .",Cabello,Tratamiento Capilar,49.9,Menta,Rumania,https://nala.ro/products/tratament-scalp-anti-matreata-ulei-menta-salbatica-cocos-ceara,Tratamiento Capilar,Tratamiento Capilar
+30703,50,Ceară de Păr - Unt de Shea & Ceară de AlbineAdaugă la .,Cabello,Cera Capilar,24.9,Cera de Abejas,Rumania,https://nala.ro/products/ceara-de-par-unt-de-shea-ceara-de-albine,Otro,Cera Capilar
+30714,50,Ser Păr - Ulei ArganAdaugă la .,Cabello,Aceite Capilar,39.9,Argán,Rumania,https://nala.ro/products/ser-par-ulei-argan,Aceite Capilar,Aceite Capilar
+30704,200,Spray Păr Sare de Mare - GrapefruitAdaugă la .,Cabello,Spray Capilar,19.9,Pomelo,Rumania,https://nala.ro/products/spray-par-sare-de-mare-grapefruit,Spray Capilar,Spray Capilar
+64821,200,Spray Strălucitor Păr Sare de Mare - Portocală & AnanasAdaugă la .,Cabello,Spray Capilar,29.9,Naranja y Piña,Rumania,https://nala.ro/products/spray-stralucitor-par-sare-de-mare-portocala-ananas,Spray Capilar,Spray Capilar
+64308,200,"Șampon Hidratare Intensă - 50% Miere, Trandafiri, Flori PortocalAdaugă la .",Cabello,Champú,49.9,Miel,Rumania,https://nala.ro/products/sampon-hidratare-intensa-50-miere-trandafiri-flori-portocal,Champú,Tratamiento Capilar
+64239,200,"Șampon Revigorare și Detoxifiere - Extract Urzică, Migdale, GrâuAdaugă la .",Cabello,Champú,39.9,Ortiga,Rumania,https://nala.ro/products/sampon-revigorare-si-detoxifiere-extract-urzica-migdale-grau,Champú,Tratamiento Capilar
+64288,200,"Mască Păr Blond - Ulei Nucă de Cocos, Ulei Rozmarin, Ulei LămâițăAdaugă la .",Cabello,Mascarilla,39.9,Coco,Rumania,https://nala.ro/products/masca-par-blond-ulei-nuca-de-cocos-ulei-rozmarin-ulei-lamaita,Mascarilla Facial,Tratamiento Capilar
+64285,75,"Tonic Stimulare Creștere și Fortifiere Păr - Cafeină, Piper negru & Extract 7 PlanteAdaugă la .",Cabello,Tónico Capilar,49.9,Cafeína,Rumania,https://nala.ro/products/tonic-stimulare-crestere-si-fortifiere-par-cafeina-piper-negru-extract-7-plante,Tónico Facial,Tratamiento Capilar
+74246,14,Cutie metalică NALAAdaugă la .,Cabello,Tónico Capilar,14.9,Otro,Rumania,https://nala.ro/products/cutie-metalica-nala,Otro,Tónico Capilar
+64238,200,Șampon Anti Mătreață - Ulei Mentă & Extract SalvieAdaugă la .,Cabello,Champú,39.9,Menta,Rumania,https://nala.ro/products/sampon-anti-matreata-ulei-menta-extract-salvie,Champú,Otro
+35001,30,Ser hidratant păr - Ulei Argan & Ulei MaslineAdaugă la .,Cabello,Aceite Capilar,59.9,Argán,Rumania,https://nala.ro/products/ser-hidratant-par-ulei-argan-ulei-masline,Aceite Capilar,Tratamiento Capilar
+35247,150,Apă Parfumată Corp & Păr - Ananas & Lemn SantalAdaugă la .,Corporal,Bruma Corporal,29.9,Piña y Sándalo,Rumania,https://nala.ro/products/apa-parfumata-corp-par-ananas-lemn-santal,Bruma Corporal,Aceite Capilar
+64276,150,Apă Parfumată Corp & Păr - CăpșuniAdaugă la .,Corporal,Bruma Corporal,29.9,Fresa,Rumania,https://nala.ro/products/apa-parfumata-corp-capsuni,Bruma Corporal,Bruma Corporal
+35216,150,Apă Parfumată Corp & Păr - Granita de LămâieAdaugă la .,Corporal,Bruma Corporal,24.9,Limón,Rumania,https://nala.ro/products/apa-parfumata-corp-par-granita-de-lamaie,Bruma Corporal,Bruma Corporal
+64277,150,Apă Parfumată Corp & Păr - PapayaAdaugă la .,Corporal,Bruma Corporal,29.9,Papaya,Rumania,https://nala.ro/products/apa-parfumata-corp-papaya,Bruma Corporal,Bruma Corporal
+64278,150,Apă parfumată Corp & Păr - PomeloAdaugă la .,Corporal,Bruma Corporal,29.9,Pomelo,Rumania,https://nala.ro/products/apa-parfumata-corp-par-pomelo,Bruma Corporal,Bruma Corporal
+64241,50,"Balsam Intensiv Regenerant Mâini, Unghii & CuticuleAdaugă la .",Corporal,Crema de Manos,24.9,Otro,Rumania,https://nala.ro/products/balsam-intensiv-regenerant-maini-unghii-si-cuticule,Acondicionador,Bruma Corporal
+35681,50,"Balsam Intensiv Regenerant Mâini, Unghii & Cuticule - Pară & Pepene RoșuAdaugă la .",Corporal,Crema de Manos,24.9,Pera y Sandía,Rumania,https://nala.ro/products/balsam-intensiv-regenerant-maini-unghii-cuticule-para-pepene-rosu,Acondicionador,Crema de Manos
+65065,50,"Balsam picioare hidratant - Salvie, Arbore Ceai, BergamotăAdaugă la .",Corporal,Crema Corporal,24.9,Salvia,Rumania,https://nala.ro/products/balsam-picioare-hidratant-salvie-arbore-ceai-bergamota,Acondicionador,Acondicionador
+30784,125,Bombă Baie Efervescentă - CafeaAdaugă la .,Corporal,Bomba de Baño,12.9,Cafe,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cafea,Bomba de Baño,Crema Corporal
+64809,125,Bombă Baie Efervescentă - Liliac StrălucitorAdaugă la .,Corporal,Bomba de Baño,12.9,Lila,Rumania,https://nala.ro/products/bomba-baie-efervescenta-liliac-stralucitor,Bomba de Baño,Bomba de Baño
+74231,125,Bombă Baie Efervescentă cu sclipici - Struguri RoșiiAdaugă la .,Corporal,Bomba de Baño,12.9,Uvas Rojas,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cu-sclipici-struguri-rosii,Bomba de Baño,Bomba de Baño
+30655,125,Cremă Corp - Flori de primăvarăAdaugă la .,Corporal,Crema Corporal,39.9,Flores de Primavera,Rumania,https://nala.ro/products/crema-corp-flori-de-primavara,Crema Corporal,Bomba de Baño
+64353,150,Crema Corp Strălucitoare - Caramel & VanilieAdaugă la .,Corporal,Crema Corporal,39.9,Caramelo y Vainilla,Rumania,https://nala.ro/products/crema-corp-stralucitoare-caramel-vanilie,Crema Corporal,Bomba de Baño
+65021,50,Cremă de față Antiacneică SPF 50 - Ten Acneic - Arbore Ceai & RozmarinAdaugă la .,Corporal,Protector solar facial,58.9,Té y Romero,Rumania,https://nala.ro/products/crema-antiacneica-spf-50-ten-acneic-arbore-ceai-rozmarin,Crema Facial,Bomba de Baño
+65019,50,Cremă de față Hidratantă SPF 50 - Ten Normal - Imortele & MargareteAdaugă la .,Corporal,Protector solar facial,69.9,Margaritas,Rumania,https://nala.ro/products/crema-hidratanta-spf-50-ten-normal-imortele-margarete,Crema Facial,Bomba de Baño
+65020,50,Cremă de față Matifiantă SPF 50 - Ten Mixt - Măceșe & Ulei MăslineAdaugă la .,Corporal,Protector solar facial,69.9,Escaramujo,Rumania,https://nala.ro/products/crema-matifianta-spf-50-ten-mixt-macese-ulei-masline,Crema Facial,Crema Corporal
+35674,50,Cremă de Mâini Concentrată Regenerantă - Afine & StruguriAdaugă la .,Corporal,Crema Corporal,24.9,Arándanos y Uvas,Rumania,https://nala.ro/products/crema-de-maini-concentrata-regeneranta-afine-struguri,Crema de Manos,Crema Corporal
+64242,50,"Cremă de Mâini Concentrată Regenerantă - Extract Sunătoare, Ulei Rapiță, Ceară de Albine, Propolis, Ulei MăslineAdaugă la .",Corporal,Crema de Manos,24.9,Extracto,Rumania,https://nala.ro/products/crema-maini-concentrata-regeneranta-extract-sunatoare-ulei-rapita-ceara-de-albine-propolis-ulei-masline,Crema de Manos,Protector solar facial
+64266,50,"Cremă de mâini Hidratantă - Ulei Avocado, Ulei Cocos & Aloe VeraAdaugă la .",Corporal,Crema de Manos,24.9,Aguacate,Rumania,https://nala.ro/products/crema-de-maini-hidratanta-ulei-avocado-ulei-cocos-aloe-vera,Crema de Manos,Crema Facial
+64264,50,Cremă de mâini Intens Hidratantă  - Ulei CânepăAdaugă la .,Corporal,Crema de Manos,24.9,Cañamo,Rumania,https://nala.ro/products/crema-maini-intens-hidratanta-ulei-canepa,Crema de Manos,Protector solar facial
+35667,50,Cremă de Mâini Protectivă și Hidratantă - Piper Roșu & AmbrăAdaugă la .,Corporal,Crema Facial,24.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/crema-de-maini-protectiva-si-hidratanta-piper-rosu-ambra,Crema de Manos,Crema Facial
+64243,50,"Cremă de Mâini Protectivă și Hidratantă - Ulei Măsline, Propolis, Miere, PortocaleAdaugă la .",Corporal,Crema de Manos,24.9,Aceite de oliva,Rumania,https://nala.ro/products/crema-maini-protectiva-si-hidratanta-ulei-masline-propolis-miere-ulei-esential-portocale,Crema de Manos,Protector solar facial
+64268,50,"Cremă de Mâini și Unghii - Mușețel, Gălbenele, unt Mango, ulei AvocadoAdaugă la .",Corporal,Crema de Manos,24.9,Manzanilla,Rumania,https://nala.ro/products/crema-de-maini-si-unghii-musetel-galbenele-unt-mango-ulei-avocado,Crema de Manos,Crema Facial
+64265,50,"Cremă Gel de mâini Răcoritoare  - Mentă, Lămâiță, ulei Germeni de GrâuAdaugă la .",Corporal,Crema de Manos,24.9,Menta,Rumania,https://nala.ro/products/gel-crema-maini-racoritor-menta-lamaita-ulei-germeni-de-grau-1,Aceite Corporal,Crema de Manos
+65064,50,"Cremă Picioare Nutritivă - Ricin, Mușețel, MentăAdaugă la .",Corporal,Crema Corporal,24.9,Ricin,Rumania,https://nala.ro/products/crema-picioare-nutritiva-ricin-musetel-menta,Crema Corporal,Crema de Manos
+65066,50,Cremă Picioare Răcoritoare Regenerantă - Urzică & EucaliptAdaugă la .,Corporal,Crema Corporal,19.9,Ortiga,Rumania,https://nala.ro/products/crema-picioare-racoritoare-regeneranta-urzica-eucalipt,Crema Corporal,Crema de Manos
+35650,50,Cremă Regenerantă Mâini - Fructe de Pădure & BergamotăAdaugă la .,Corporal,Crema de Manos,24.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/crema-regeneranta-maini-fructe-de-padure-bergamota,Crema de Manos,Crema de Manos
+64244,50,"Cremă Regenerantă Mâini - Unt shea, Ulei Migdale & Semințe InAdaugă la .",Corporal,Crema de Manos,17.9,Karite,Rumania,https://nala.ro/products/crema-regeneranta-maini-unt-shea-ulei-migdale-ulei-seminte-de-in,Crema de Manos,Crema de Manos
+35117,55,Deodorant Cremă - Ananas & Lemn SantalAdaugă la .,Corporal,Desodorante,24.9,Piña y Sándalo,Rumania,https://nala.ro/products/deodorant-crema-ananas-lemn-santal,Desodorante,Crema de Manos
+70485,55,Deodorant Cremă - Bergamotă & LămâițăAdaugă la .,Corporal,Desodorante,24.9,Limoncillo,Rumania,https://nala.ro/products/deodorant-crema-bergamota-lamaita,Desodorante,Crema de Manos
+74271,55,Deodorant Cremă - ChiparosAdaugă la .,Corporal,Desodorante,24.9,Chiparos,Rumania,https://nala.ro/products/deodorant-crema-chiparos,Desodorante,Crema de Manos
+70494,55,Deodorant Cremă - Cireșe AmareAdaugă la .,Corporal,Desodorante,24.9,Cirese Amare,Rumania,https://nala.ro/products/deodorant-crema-cirese-amare,Desodorante,Crema Corporal
+70447,55,Deodorant cremă - GrapefruitAdaugă la .,Corporal,Desodorante,24.9,Pomelo,Rumania,https://nala.ro/products/deodorant-crema-grapefruit,Desodorante,Crema Corporal
+70484,55,Deodorant Cremă - Lavandă & MușețelAdaugă la .,Corporal,Desodorante,24.9,Manzanilla,Rumania,https://nala.ro/products/deodorant-crema-lavanda-musetel,Desodorante,Crema de Manos
+74272,55,Deodorant Cremă - Lemn de CedruAdaugă la .,Corporal,Desodorante,24.9,Lemn De Cedru,Rumania,https://nala.ro/products/deodorant-crema-lemn-de-cedru,Desodorante,Crema de Manos
+70491,55,Deodorant Cremă - PortocalăAdaugă la .,Corporal,Desodorante,24.9,Naranja,Rumania,https://nala.ro/products/deodorant-crema-portocala,Desodorante,Desodorante
+70492,55,Deodorant Cremă - RodieAdaugă la .,Corporal,Desodorante,24.9,Rodie,Rumania,https://nala.ro/products/deodorant-crema-rodie,Desodorante,Desodorante
+70448,55,Deodorant Cremă - Struguri RoșiiAdaugă la .,Corporal,Desodorante,24.9,Uvas Rojas,Rumania,https://nala.ro/products/deodorant-crema-struguri-rosii,Desodorante,Desodorante
+70449,55,Deodorant Cremă - TeiAdaugă la .,Corporal,Desodorante,24.9,Tilo,Rumania,https://nala.ro/products/deodorant-crema-tei,Desodorante,Desodorante
+64823,75,"Deodorant Spray Picioare - Lime, Arbore Ceai, MentăAdaugă la .",Corporal,Spray corporal,29.9,Lime,Rumania,https://nala.ro/products/deodorant-spray-picioare-lime-arbore-ceai-menta,Desodorante,Desodorante
+70432,100,Exfoliant Mâini - Ulei de Migdale & LavandăAdaugă la .,Corporal,Crema de Manos,19.9,Almendras,Rumania,https://nala.ro/products/exfoliant-maini-ulei-de-migdale-ulei-de-lavanda,Exfoliante Corporal,Desodorante
+70431,150,Exfoliant Picioare - Ulei de Avocado & Arbore de CeaiAdaugă la .,Corporal,Exfoliante Corporal,19.9,Aguacate,Rumania,https://nala.ro/products/exfoliant-picioare-ulei-de-avocado-ulei-arbore-de-ceai,Exfoliante Corporal,Desodorante
+64365,200,Exfoliant Zahăr Jeleu - CăpșuniAdaugă la .,Corporal,Exfoliante Corporal,59.9,Fresa,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-capsuni,Exfoliante Corporal,Desodorante
+64363,200,Exfoliant Zahăr Jeleu - CitriceAdaugă la .,Corporal,Exfoliante Corporal,59.9,Cítricos,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-citrice,Exfoliante Corporal,Desodorante
+64364,200,Exfoliant Zahăr Jeleu - KiwiAdaugă la .,Corporal,Exfoliante Corporal,59.9,Kiwi,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-kiwi,Exfoliante Corporal,Desodorante
+64360,200,Exfoliant Zahăr Jeleu - MerișoareAdaugă la .,Corporal,Exfoliante Corporal,59.9,Fresas del Bosque,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-merisoare,Exfoliante Corporal,Desodorante
+64361,200,Exfoliant Zahăr Jeleu - Nucă de CocosAdaugă la .,Corporal,Exfoliante Corporal,44.9,Coco,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-nuca-de-cocos,Exfoliante Corporal,Spray corporal
+64478,100,Gel Corp Strălucitor - Caramel Sărat și VanilieAdaugă la .,Corporal,Spray corporal,39.9,Caramelo Salado y Vainilla,Rumania,https://nala.ro/products/gel-corp-stralucitor-caramel-sarat-si-vanilie,Gel de Ducha,Crema de Manos
+64477,200,Gel de duș cu Sclipici - Căpșuni DulciAdaugă la .,Corporal,Gel de Ducha,29.9,Fresa,Rumania,https://nala.ro/products/gel-de-dus-cu-sclipici-capsuni-dulci,Gel de Ducha,Exfoliante Corporal
+64383,250,Gel delicat igienă intimă - Merișoare & Extract Coajă StejarAdaugă la .,Corporal,Gel intimo,29.9,Extracto,Rumania,https://nala.ro/products/gel-delicat-igiena-intima-meri%C8%99oare-extract-coaja-stejar,Gel de Ducha,Exfoliante Corporal
+64384,250,Gel igienă intimă - Gălbenele & Arbore de CeaiAdaugă la .,Corporal,Gel intimo,29.9,Caléndula y Té,Rumania,https://nala.ro/products/gel-igiena-intima-galbenele-arbore-de-ceai,Gel de Ducha,Exfoliante Corporal
+65003,250,Gel igienă intimă - MușețelAdaugă la .,Corporal,Gel intimo,29.9,Manzanilla,Rumania,https://nala.ro/products/gel-igiena-intima-musetel,Gel de Ducha,Exfoliante Corporal
+70441,200,Gel Răcoritor după soare - Aloe Vera & MentolAdaugă la .,Corporal,Crema Corporal,23.9,Aloe Vera y Mentol,Rumania,https://nala.ro/products/gel-racoritor-dupa-soare-aloe-vera-mentol,Gel de Ducha,Exfoliante Corporal
+65016,200,Lapte Corp - GrapefruitAdaugă la .,Corporal,Crema Corporal,29.9,Pomelo,Rumania,https://nala.ro/products/lapte-corp-grapefruit-1,Otro,Exfoliante Corporal
+30748,100,Săpun Anticelulitic Natural - GrapefruitAdaugă la .,Corporal,Jabon Natural,12.9,Pomelo,Rumania,https://nala.ro/products/sapun-natural-grapefruit,Jabón Natural,Pack Desodorante
+30735,100,Săpun Natural - AnticeluliticAdaugă la .,Corporal,Jabon Natural,15.9,Anticelulítico,Rumania,https://nala.ro/products/sapun-natural-anticelulitic,Jabón Natural,Pack Desodorante
+70416,100,Săpun Natural cu Lufă - TeiAdaugă la .,Corporal,Jabon Natural,12.9,Tilo,Rumania,https://nala.ro/products/sapun-natural-cu-lufa-tei,Jabón Natural,Pack Desodorante
+64814,100,Săpun Natural cu Lufă - VanilieAdaugă la .,Corporal,Jabon Natural,12.9,Vainilla,Rumania,https://nala.ro/products/sapun-natural-cu-lufa-vanilie,Jabón Natural,Pack Desodorante
+64377,100,Săpun Strălucitor - CitriceAdaugă la .,Corporal,Jabon Natural,16.9,Cítricos,Rumania,https://nala.ro/products/sapun-stralucitor-citrice,Jabón Natural,Pack Desodorante
+74203,200,Scrub CAFEA - Nucă de Cocos & BananăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Coco,Rumania,https://nala.ro/products/scrub-cafea-nuca-de-cocos-banana,Exfoliante Corporal,Pack Desodorante
+70423,200,Scrub CAFEA - Nucă de Cocos & VanilieAdaugă la .,Corporal,Exfoliante Corporal,39.9,Coco,Rumania,https://nala.ro/products/scrub-cafea-nuca-de-cocos-vanilie,Exfoliante Corporal,Pack Desodorante
+64820,200,Scrub CAFEA Strălucitor Auriu - Banană & Ulei Nuci MacadamiaAdaugă la .,Corporal,Exfoliante Corporal,49.9,Aceite de macadamia,Rumania,https://nala.ro/products/scrub-cafea-stralucitor-auriu-banana-ulei-nuci-macadamia,Exfoliante Corporal,Jabon Natural
+65073,200,Scrub Fulgi Nucă de COCOS - Cocktail Nucă de CocosAdaugă la .,Corporal,Exfoliante Corporal,47.9,Coco,Rumania,https://nala.ro/products/scrub-fulgi-nuca-de-cocos-cocktail-nuca-de-cocos,Exfoliante Corporal,Jabon Natural
+35445,200,Scrub sare - Afine & StruguriAdaugă la .,Corporal,Exfoliante Corporal,39.9,Arándanos y Uvas,Rumania,https://nala.ro/products/scrub-sare-afine-struguri,Exfoliante Corporal,Jabon Natural
+30631,200,Scrub sare - Flori de primăvarăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Flores de Primavera,Rumania,https://nala.ro/products/scrub-sare-flori-de-primavara,Exfoliante Corporal,Jabon Natural
+35421,200,Scrub sare - Fructe de pădure & BergamotăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/scrub-sare-fructe-de-padure-bergamota,Exfoliante Corporal,Jabon Natural
+35018,200,Scrub sare - Granita de LămâieAdaugă la .,Corporal,Exfoliante Corporal,39.9,Limón,Rumania,https://nala.ro/products/scrub-sare-granita-lamaie,Exfoliante Corporal,Jabon Natural
+70467,200,Scrub sare - LiliacAdaugă la .,Corporal,Exfoliante Corporal,39.9,Liliac,Rumania,https://nala.ro/products/scrub-sare-liliac,Exfoliante Corporal,Jabon Natural
+35452,200,Scrub sare - Pară & Pepene RoșuAdaugă la .,Corporal,Exfoliante Corporal,39.9,Pera y Sandía,Rumania,https://nala.ro/products/scrub-sare-para-pepene-rosu,Exfoliante Corporal,Jabon Natural
+35438,200,Scrub sare - Piper Roșu & AmbrăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/scrub-sare-piper-rosu-ambra,Exfoliante Corporal,Jabon Natural
+70440,200,Scrub sare - RodieAdaugă la .,Corporal,Exfoliante Corporal,39.9,Rodie,Rumania,https://nala.ro/products/scrub-sare-rodie,Exfoliante Corporal,Jabon Natural
+30632,200,Scrub sare - Sâmburi de struguriAdaugă la .,Corporal,Exfoliante Corporal,39.9,Semillas de Uva,Rumania,https://nala.ro/products/scrub-sare-samburi-de-struguri,Exfoliante Corporal,Exfoliante Corporal
+30630,200,Scrub sare - Struguri roșiiAdaugă la .,Corporal,Exfoliante Corporal,39.9,Uvas Rojas,Rumania,https://nala.ro/products/scrub-sare-struguri-rosii,Exfoliante Corporal,Exfoliante Corporal
+30782,300,Scrub Sare Hidratant - CafeaAdaugă la .,Corporal,Exfoliante Corporal,49.9,Cafe,Rumania,https://nala.ro/products/scrub-sare-hidratant-cafea,Exfoliante Corporal,Exfoliante Corporal
+30790,300,Scrub Sare Hidratant - GhimbirAdaugă la .,Corporal,Exfoliante Corporal,49.9,Jengibre,Rumania,https://nala.ro/products/scrub-sare-hidratant-ghimbir,Exfoliante Corporal,Exfoliante Corporal
+74291,300,Scrub Sare Hidratant - Ulei de CânepăAdaugă la .,Corporal,Aceite Corporal,49.9,Cañamo,Rumania,https://nala.ro/products/scrub-sare-hidratant-ulei-de-canepa,Exfoliante Corporal,Exfoliante Corporal
+35544,200,Scrub Zahăr & Unt Shea - Fructe de Pădure & BergamotăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/scrub-zahar-unt-shea-fructe-de-padure-bergamota,Exfoliante Corporal,Exfoliante Corporal
+35551,150,Scrub Zahăr Bezea - Piper Roșu & AmbrăAdaugă la .,Corporal,Exfoliante Corporal,49.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/scrub-zahar-bezea-piper-rosu-ambra,Exfoliante Corporal,Exfoliante Corporal
+65069,300,Scrub Zahăr Ciocolată - Pudră Cacao & Ulei MigdaleAdaugă la .,Corporal,Exfoliante Corporal,59.9,Almendras,Rumania,https://nala.ro/products/scrub-zahar-ciocolata-pudra-cacao-ulei-migdale,Exfoliante Corporal,Exfoliante Corporal
+65093,300,Scrub Zahăr Strălucitor AuriuAdaugă la .,Corporal,Exfoliante Corporal,59.9,Otro,Rumania,https://nala.ro/products/scrub-zahar-stralucitor-auriu,Exfoliante Corporal,Exfoliante Corporal
+35636,150,Șerbet Corp - Afine & StruguriAdaugă la .,Corporal,Exfoliante Corporal,39.9,Arándanos y Uvas,Rumania,https://nala.ro/products/serbet-corp-afine-struguri,Sorbete Corporal,Exfoliante Corporal
+64487,150,Șerbet Corp - CăpșuniAdaugă la .,Corporal,Sorbete Corporal,39.9,Fresa,Rumania,https://nala.ro/products/serbet-de-corp-capsuni,Sorbete Corporal,Exfoliante Corporal
+65014,150,Șerbet Corp - CireșeAdaugă la .,Corporal,Sorbete Corporal,39.9,Cereza,Rumania,https://nala.ro/products/serbet-corp-cirese,Sorbete Corporal,Exfoliante Corporal
+64897,150,Șerbet Corp - Flori de primăvarăAdaugă la .,Corporal,Sorbete Corporal,39.9,Flores de Primavera,Rumania,https://nala.ro/products/serbet-corp-flori-de-primavara-1,Sorbete Corporal,Exfoliante Corporal
+35612,150,Șerbet Corp - Fructe de pădure & BergamotăAdaugă la .,Corporal,Exfoliante Corporal,39.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/serbet-corp-fructe-de-padure-bergamota,Sorbete Corporal,Exfoliante Corporal
+64891,150,Șerbet Corp - LiliacAdaugă la .,Corporal,Sorbete Corporal,39.9,Lila,Rumania,https://nala.ro/products/serbet-corp-liliac,Sorbete Corporal,Exfoliante Corporal
+35643,150,Șerbet Corp - Pară & Pepene RoșuAdaugă la .,Corporal,Exfoliante Corporal,39.9,Pera y Sandía,Rumania,https://nala.ro/products/serbet-corp-para-pepene-rosu,Sorbete Corporal,Exfoliante Corporal
+35629,150,Șerbet Corp - Piper Roșu & AmbrăAdaugă la .,Corporal,Aceite Corporal,39.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/serbet-corp-piper-rosu-ambra,Sorbete Corporal,Aceite Corporal
+64893,150,Șerbet Corp - Struguri roșiiAdaugă la .,Corporal,Sorbete Corporal,39.9,Uvas Rojas,Rumania,https://nala.ro/products/serbet-corp-struguri-rosii-1,Sorbete Corporal,Exfoliante Corporal
+65013,150,Șerbet Corp - Ulei de CânepăAdaugă la .,Corporal,Aceite Corporal,39.9,Aceite,Rumania,https://nala.ro/products/serbet-corp-ulei-de-canepa,Sorbete Corporal,Exfoliante Corporal
+65172,150,Șerbet Corp - VanilieAdaugă la .,Corporal,Sorbete Corporal,39.9,Vainilla,Rumania,https://nala.ro/products/serbet-corp-vanilie,Sorbete Corporal,Exfoliante Corporal
+65012,150,Șerbet Corp - Zmeură & VanilieAdaugă la .,Corporal,Sorbete Corporal,39.9,Vainilla,Rumania,https://nala.ro/products/serbet-corp-zmeura-vanilie,Sorbete Corporal,Exfoliante Corporal
+64368,100,Spray Corp Strălucitor - GrapefruitAdaugă la .,Corporal,Spray corporal,39.9,Pomelo,Rumania,https://nala.ro/products/spray-corp-stralucitor-grapefruit,Spray corporal,Sorbete Corporal
+64499,150,Spray protecție solară SPF50 - Extract Morcov & Aloe VeraAdaugă la .,Corporal,Spray corporal,79.9,Extracto,Rumania,https://nala.ro/products/spray-protectie-solara-spf50-extract-morcov-aloe-vera,Spray corporal,Sorbete Corporal
+64821,200,Spray Strălucitor Păr Sare de Mare - Portocală & AnanasAdaugă la .,Corporal,Spray Capilar,29.9,Naranja y Piña,Rumania,https://nala.ro/products/spray-stralucitor-par-sare-de-mare-portocala-ananas,Spray corporal,Sorbete Corporal
+35285,100,Ulei Uscat Strălucitor Corp - Ananas & Lemn SantalAdaugă la .,Corporal,Aceite Corporal,24.9,Piña y Sándalo,Rumania,https://nala.ro/products/ulei-uscat-stralucitor-corp-ananas-lemn-santal,Aceite Corporal,Sorbete Corporal
+35261,100,Ulei Uscat Strălucitor Corp - Fructul Pasiunii & LitchiAdaugă la .,Corporal,Aceite Corporal,39.9,Fruta de la Pasión y Lichi,Rumania,https://nala.ro/products/ulei-uscat-stralucitor-corp-fructul-pasiunii-litchi,Aceite Corporal,Sorbete Corporal
+35254,100,Ulei Uscat Strălucitor Corp - Granita de LămâieAdaugă la .,Corporal,Aceite Corporal,39.9,Limón,Rumania,https://nala.ro/products/ulei-uscat-stralucitor-corp-granita-de-lamaie,Aceite Corporal,Sorbete Corporal
+64369,100,Ulei Uscat Strălucitor Corp - GrapefruitAdaugă la .,Corporal,Aceite Corporal,39.9,Pomelo,Rumania,https://nala.ro/products/ulei-uscat-stralucitor-corp-grapefruit,Aceite Corporal,Sorbete Corporal
+35278,100,Ulei Uscat Strălucitor Corp - Piersică & MangoAdaugă la .,Corporal,Aceite Corporal,39.9,Piersica & Mango,Rumania,https://nala.ro/products/ulei-uscat-stralucitor-corp-piersica-mango,Aceite Corporal,Sorbete Corporal
+64213,11,Unt Buze Strălucitor - RodieAdaugă la .,Corporal,Bálsamo labial,24.9,Rodie,Rumania,https://nala.ro/products/balsam-buze-stralucitor-rodie,Bálsamo Labial,Aceite Corporal
+35520,125,Unt Corp - Afine & StruguriAdaugă la .,Corporal,Manteca Corporal,39.9,Arándanos y Uvas,Rumania,https://nala.ro/products/unt-corp-afine-struguri,Manteca Corporal,Sorbete Corporal
+70446,125,Unt Corp - CafeaAdaugă la .,Corporal,Manteca Corporal,39.9,Cafe,Rumania,https://nala.ro/products/unt-corp-cafea,Manteca Corporal,Sorbete Corporal
+30660,125,Unt Corp - Flori de primăvarăAdaugă la .,Corporal,Manteca Corporal,39.9,Flores de Primavera,Rumania,https://nala.ro/products/unt-corp-flori-de-primavara,Manteca Corporal,Spray corporal
+35506,125,Unt Corp - Fructe de pădure & BergamotăAdaugă la .,Corporal,Manteca Corporal,39.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/unt-corp-fructe-de-padure-bergamota,Manteca Corporal,Spray corporal
+30657,125,Unt Corp - GrapefruitAdaugă la .,Corporal,Manteca Corporal,39.9,Pomelo,Rumania,https://nala.ro/products/unt-corp-grapefruit,Manteca Corporal,Spray Capilar
+74200,125,Unt Corp - Nucă de Cocos & VanilieAdaugă la .,Corporal,Manteca Corporal,39.9,Coco,Rumania,https://nala.ro/products/unt-corp-nuca-de-cocos-vanilie,Manteca Corporal,Spray corporal
+35537,125,Unt Corp - Pară & Pepene RoșuAdaugă la .,Corporal,Manteca Corporal,39.9,Pera y Sandía,Rumania,https://nala.ro/products/unt-corp-para-pepene-rosu,Manteca Corporal,Otro
+35113,0,Unt Corp - Piper Roșu & AmbrăAdaugă la .,Corporal,Aceite Corporal,39.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/unt-corp-piper-rosu-ambra,Manteca Corporal,Aceite Corporal
+70443,125,Unt Corp - RodieAdaugă la .,Corporal,Manteca Corporal,39.9,Rodie,Rumania,https://nala.ro/products/unt-corp-rodie,Manteca Corporal,Aceite Corporal
+30656,125,Unt Corp - Sâmburi de struguriAdaugă la .,Corporal,Manteca Corporal,39.9,Semillas de Uva,Rumania,https://nala.ro/products/unt-corp-samburi-de-struguri,Manteca Corporal,Aceite Corporal
+30654,125,Cremă Corp - Struguri roșiiAdaugă la .,Corporal,Crema Corporal,29.9,Uvas Rojas,Rumania,https://nala.ro/products/crema-corp-struguri-rosii,Crema Corporal,Aceite Corporal
+64482,47,Deodorant Natural Stick - CireșeAdaugă la .,Corporal,Desodorante,24.9,Cereza,Rumania,https://nala.ro/products/deodorant-natural-cirese,Desodorante,Aceite Corporal
+64480,47,Deodorant Natural Stick - GrapefruitAdaugă la .,Corporal,Desodorante,24.9,Pomelo,Rumania,https://nala.ro/products/deodorant-natural-grapefruit,Desodorante,Bálsamo labial
+64479,47,Deodorant Natural Stick - Mușețel & LavandăAdaugă la .,Corporal,Desodorante,24.9,Manzanilla,Rumania,https://nala.ro/products/deodorant-natural-musetel-lavanda,Desodorante,Bálsamo labial
+64481,47,Deodorant Natural Stick - PortocalăAdaugă la .,Corporal,Desodorante,24.9,Naranja,Rumania,https://nala.ro/products/deodorant-natural-portocala,Desodorante,Manteca Corporal
+64366,200,Exfoliant Zahăr Jeleu - Piper RoșuAdaugă la .,Corporal,Exfoliante Corporal,59.9,Pimienta roja,Rumania,https://nala.ro/products/exfoliant-zahar-jeleu-piper-rosu,Exfoliante Corporal,Manteca Corporal
+64214,200,Lapte Corp - Nucă de Cocos & VanilieAdaugă la .,Corporal,Crema Corporal,23.9,Coco,Rumania,https://nala.ro/products/lapte-corp-nuca-de-cocos-vanilie,Otro,Manteca Corporal
+65018,200,Loțiune Corp Hidratantă - Ulei de CânepăAdaugă la .,Corporal,Crema Corporal,29.9,Cañamo,Rumania,https://nala.ro/products/lotiune-corp-hidratanta-ulei-de-canepa,Loción,Manteca Corporal
+64825,100,"Mască Regenerantă Mâini & Picioare - Ceară Sumac, Carnauba, JojobaAdaugă la .",Corporal,Crema de Manos,39.9,Ceara Sumac,Rumania,https://nala.ro/products/masca-regeneranta-maini-picioare-ceara-sumac-carnauba-jojoba,Crema de Manos,Manteca Corporal
+64824,60,"Pudră Dezodorizantă Picioare - Argilă, Eucalipt, Arbore CeaiAdaugă la .",Corporal,Desodorante,34.9,Argila,Rumania,https://nala.ro/products/pudra-dezodorizanta-picioare-argila-eucalipt-arbore-ceai,Otro,Manteca Corporal
+30638,200,Scrub Zahăr - GrapefruitAdaugă la .,Corporal,Exfoliante Corporal,39.9,Pomelo,Rumania,https://nala.ro/products/scrub-zahar-grapefruit,Exfoliante Corporal,Manteca Corporal
+64354,100,Spray Corp Strălucitor - Caramel & VanilieAdaugă la .,Corporal,Spray corporal,39.9,Caramelo y Vainilla,Rumania,https://nala.ro/products/spray-corp-stralucitor-caramel-vanilla,Spray corporal,Manteca Corporal
+64498,150,"Spray protecție solară SPF30 - Extract Morcov, Aloe Vera și RodieAdaugă la .",Corporal,Spray corporal,59.9,Extracto,Rumania,https://nala.ro/products/spray-protectie-solara-spf30-extract-morcov-aloe-vera-si-rodie,Spray corporal,Manteca Corporal
+74267,150,"Ulei Masaj Detoxifiant - Ulei Grapefruit, Chiparos, LămâieAdaugă la .",Corporal,Aceite Corporal,39.9,Pomelo,Rumania,https://nala.ro/products/ulei-masaj-detoxifiant-ulei-grapefruit-chiparos-lamaie,Aceite Corporal,Crema Corporal
+74265,150,"Ulei Masaj Relaxant - Ulei Mușcată, Șofrănel, Lavandă, SalvieAdaugă la .",Corporal,Aceite Corporal,39.9,Lavanda,Rumania,https://nala.ro/products/ulei-masaj-relaxant-ulei-muscata-sofranel-lavanda-salvie,Aceite Corporal,Desodorante
+74266,150,Ulei Masaj Senzual - Ulei Portocală Amară & Lemn de TrandafirAdaugă la .,Corporal,Aceite Corporal,39.9,naranja amarga,Rumania,https://nala.ro/products/ulei-masaj-senzual-ulei-portocala-amara-lemn-trandafir,Aceite Corporal,Desodorante
+70479,150,Ulei Uscat Corp - Lemn de SantalAdaugă la .,Corporal,Aceite Corporal,39.9,Sandalo,Rumania,https://nala.ro/products/ulei-uscat-corp-lemn-de-santal,Aceite Corporal,Desodorante
+74264,150,Ulei Uscat Corp - Mușcată & Portocală AmarăAdaugă la .,Corporal,Aceite Corporal,39.9,naranja amarga,Rumania,https://nala.ro/products/ulei-uscat-corp-muscata-portocala-amara,Aceite Corporal,Desodorante
+70481,150,Ulei Uscat Corp - PapayaAdaugă la .,Corporal,Aceite Corporal,39.9,Papaya,Rumania,https://nala.ro/products/ulei-uscat-corp-papaya,Aceite Corporal,Exfoliante Corporal
+64894,150,Șerbet Corp - GrapefruitAdaugă la .,Corporal,Sorbete Corporal,39.9,Pomelo,Rumania,https://nala.ro/products/serbet-corp-grapefruit-1,Sorbete Corporal,Crema Corporal
+30786,300,Scrub Sare Hidratant - GrapefruitAdaugă la .,Corporal,Exfoliante Corporal,49.9,Pomelo,Rumania,https://nala.ro/products/scrub-sare-hidratant-grapefruit,Exfoliante Corporal,Crema Corporal
+35711,100,Săpun Natural - MerișoareAdaugă la .,Ducha y Baño,Crema de Manos,12.9,Arandanos,Rumania,https://nala.ro/products/sapun-natural-merisoare,Jabón Natural,Crema de Manos
+35704,100,Săpun Natural - Boabe picante de TonkaAdaugă la .,Ducha y Baño,Pack Desodorante,12.9,Boabe,Rumania,https://nala.ro/products/sapun-natural-boabe-picante-de-tonka,Jabón Natural,Pack Desodorante
+35483,125,Bombă Baie Efervescentă - Afine & StruguriAdaugă la .,Ducha y Baño,Desodorante,12.9,Arándanos y Uvas,Rumania,https://nala.ro/products/bomba-baie-efervescenta-afine-struguri,Bomba de Baño,Desodorante
+35605,200,Gel de duș - Pară & Pepene RoșuAdaugă la .,Ducha y Baño,Exfoliante Corporal,19.9,Pera y Sandía,Rumania,https://nala.ro/products/gel-de-dus-para-pepene-rosu,Gel de Ducha,Exfoliante Corporal
+35599,200,Gel de duș - Afine & StruguriAdaugă la .,Ducha y Baño,Spray corporal,19.9,Arándanos y Uvas,Rumania,https://nala.ro/products/gel-de-dus-afine-struguri,Gel de Ducha,Spray corporal
+35582,200,Gel de duș - Piper Roșu & AmbrăAdaugă la .,Ducha y Baño,Spray corporal,19.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/gel-de-dus-piper-rosu-ambra,Gel de Ducha,Spray corporal
+35575,200,Gel de duș - Fructe de pădure & BergamotăAdaugă la .,Ducha y Baño,Aceite Corporal,19.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/gel-de-dus-fructe-de-padure-bergamota,Gel de Ducha,Aceite Corporal
+35568,125,Bombă Baie Efervescentă - Cub - Pară & Pepene RoșuAdaugă la .,Ducha y Baño,Aceite Corporal,19.9,Pera y Sandía,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cub-para-pepene-rosu,Bomba de Baño,Aceite Corporal
+35476,125,Bombă Baie Efervescentă - Piper Roșu & AmbrăAdaugă la .,Ducha y Baño,Aceite Corporal,12.9,Pimienta Roja y Ámbar,Rumania,https://nala.ro/products/bomba-baie-efervescenta-piper-rosu-ambra,Bomba de Baño,Aceite Corporal
+35735,200,Gel de duș Exfoliant Hidratant - Banană & Boabe TonkaAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Plátano y Habas Tonka,Rumania,https://nala.ro/products/gel-de-dus-exfoliant-banana-boabe-tonka,Gel de Ducha,Aceite Corporal
+35490,125,Bombă Baie Efervescentă - Pară & Pepene RoșuAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Pera y Sandía,Rumania,https://nala.ro/products/bomba-baie-efervescenta-para-pepene-rosu,Bomba de Baño,Aceite Corporal
+35469,125,Bombă Baie Efervescentă - Fructe de Pădure & BergamotăAdaugă la .,Ducha y Baño,Aceite Corporal,12.9,Frutos del Bosque y Bergamota,Rumania,https://nala.ro/products/bomba-baie-efervescenta-fructe-de-padure-bergamota,Bomba de Baño,Aceite Corporal
+35162,200,Gel de duș - Ananas & Lemn SantalAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Piña y Sándalo,Rumania,https://nala.ro/products/gel-de-dus-ananas-lemn-santal,Gel de Ducha,Sorbete Corporal
+35087,140,Bombă Baie Efervescentă Stea de Mare - Fructul Pasiunii & LitchiAdaugă la .,Ducha y Baño,Bomba de Baño,27.9,Fruta de la Pasión y Lichi,Rumania,https://nala.ro/products/bomba-baie-efervescenta-stea-de-mare-fructul-pasiunii-litchi,Bomba de Baño,Exfoliante Corporal
+35070,145,Bombă Baie Efervescentă Scoică - Ananas & Lemn SantalAdaugă la .,Ducha y Baño,Bomba de Baño,19.9,Piña y Sándalo,Rumania,https://nala.ro/products/bomba-baie-efervescenta-scoica-ananas-lemn-santal,Bomba de Baño,Jabon Natural
+64493,50,Bombă Baie Hidratantă - FisticAdaugă la .,Ducha y Baño,Crema de Baño,8.9,Fistic,Rumania,https://nala.ro/products/bomba-baie-hidratanta-fistic,Bomba de Baño,Jabon Natural
+64486,200,Gel de duș - CăpșuniAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Fresa,Rumania,https://nala.ro/products/gel-dus-capsuni,Gel de Ducha,Bomba de Baño
+64492,50,Bombă Baie Hidratantă - Lămaie și LimeAdaugă la .,Ducha y Baño,Crema de Baño,8.9,Limón y Lima,Rumania,https://nala.ro/products/bomba-baie-hidratanta-lamaie-si-lime,Bomba de Baño,Gel de Ducha
+64491,50,Bombă Baie Hidratantă - LiliacAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Lila,Rumania,https://nala.ro/products/bomba-baie-hidratanta-liliac,Bomba de Baño,Gel de Ducha
+64490,50,Bombă Baie Hidratantă - Trandafiri & VanilieAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Rosas,Rumania,https://nala.ro/products/bomba-baie-hidratanta-trandafiri-vanilie,Bomba de Baño,Gel de Ducha
+64477,200,Gel de duș cu Sclipici - Căpșuni DulciAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Fresa,Rumania,https://nala.ro/products/gel-de-dus-cu-sclipici-capsuni-dulci,Gel de Ducha,Gel de Ducha
+30725,125,Bombă Baie Efervescentă - CireșeAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Cereza,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cirese,Bomba de Baño,Bomba de Baño
+74231,125,Bombă Baie Efervescentă cu sclipici - Struguri RoșiiAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Uvas Rojas,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cu-sclipici-struguri-rosii,Bomba de Baño,Bomba de Baño
+74214,125,Bombă Baie Efervescentă - BujoriAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Peonías,Rumania,https://nala.ro/products/bomba-baie-efervescenta-bujori,Bomba de Baño,Gel de Ducha
+70478,125,Bombă Baie Efervescentă - Piersică StrălucitoareAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Melocotón Brillante,Rumania,https://nala.ro/products/bomba-baie-efervescenta-piersica-stralucitoare,Bomba de Baño,Bomba de Baño
+70475,125,Bombă Baie Efervescentă - Sâmburi de StruguriAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Semillas de Uva,Rumania,https://nala.ro/products/bomba-baie-efervescenta-samburi-de-struguri,Bomba de Baño,Bomba de Baño
+70474,125,Bombă Baie Efervescentă - Floare de LotusAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Flor de Loto,Rumania,https://nala.ro/products/bomba-baie-efervescenta-floare-de-lotus,Bomba de Baño,Gel de Ducha
+70429,125,Bombă Baie Efervescentă - BusuiocAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Albahaca,Rumania,https://nala.ro/products/bomba-baie-efervescenta-busuioc,Bomba de Baño,Bomba de Baño
+70422,100,Săpun Natural - Cireșe & BananeAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Cerezas y Plátanos,Rumania,https://nala.ro/products/sapun-natural-cirese-banane,Jabón Natural,Bomba de Baño
+70421,100,Săpun Natural - LiliacAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Liliac,Rumania,https://nala.ro/products/sapun-natural-liliac,Jabón Natural,Crema de Baño
+70420,100,Săpun Natural - Alge de mareAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Algas Marinas,Rumania,https://nala.ro/products/sapun-natural-alge-de-mare,Jabón Natural,Gel de Ducha
+70416,100,Săpun Natural cu Lufă - TeiAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Tilo,Rumania,https://nala.ro/products/sapun-natural-cu-lufa-tei,Jabón Natural,Crema de Baño
+65168,200,Gel de duș - VanilieAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Vainilla,Rumania,https://nala.ro/products/gel-de-dus-vanilie,Gel de Ducha,Crema de Baño
+65139,500,Gel de duș - CafeaAdaugă la .,Ducha y Baño,Gel de Ducha,39.9,Cafe,Rumania,https://nala.ro/products/gel-de-dus-cafea-1,Gel de Ducha,Crema de Baño
+65138,500,Gel de duș - CireșeAdaugă la .,Ducha y Baño,Gel de Ducha,39.9,Cereza,Rumania,https://nala.ro/products/gel-de-dus-cirese-1,Gel de Ducha,Gel de Ducha
+65137,500,Gel de duș - LiliacAdaugă la .,Ducha y Baño,Gel de Ducha,39.9,Lila,Rumania,https://nala.ro/products/gel-de-dus-liliac-1,Gel de Ducha,Bomba de Baño
+65136,300,Lapte Pudră Baie - Trandafiri & VanilieAdaugă la .,Ducha y Baño,Leche de Baño,39.9,Rosas,Rumania,https://nala.ro/products/lapte-pudra-baie-trandafiri-vanilie,Leche De Baño,Bomba de Baño
+65104,600,Sare Baie - LiliacAdaugă la .,Ducha y Baño,Sal de Baño,39.9,Lila,Rumania,https://nala.ro/products/sare-baie-liliac,Sal de Baño,Bomba de Baño
+65063,200,Gel de duș - Ambră & BourbonAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Ámbar y Bourbon,Rumania,https://nala.ro/products/gel-de-dus-ambra-bourbon,Gel de Ducha,Bomba de Baño
+65050,600,Sare Baie - Trandafiri & VanilieAdaugă la .,Ducha y Baño,Sal de Baño,39.9,Rosas,Rumania,https://nala.ro/products/sare-baie-trandafiri-vanilie,Sal de Baño,Bomba de Baño
+65015,200,Gel de duș - CireșeAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Cereza,Rumania,https://nala.ro/products/gel-de-dus-cirese,Gel de Ducha,Bomba de Baño
+65005,200,Gel de duș - LiliacAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Lila,Rumania,https://nala.ro/products/gel-de-dus-liliac,Gel de Ducha,Bomba de Baño
+65004,200,Gel de Duș Hidratant - Ulei CânepăAdaugă la .,Ducha y Baño,Gel de Ducha,24.9,cañamo,Rumania,https://nala.ro/products/gel-de-dus-hidratant-ulei-canepa,Gel de Ducha,Bomba de Baño
+65002,200,Spumă Baie - GrapefruitAdaugă la .,Ducha y Baño,Espuma de Baño,24.9,Pomelo,Rumania,https://nala.ro/products/spuma-baie-grapefruit-1,Espuma De Baño,Jabon Natural
+65001,200,Spumă Baie - Struguri roșiiAdaugă la .,Ducha y Baño,Espuma de Baño,19.9,Uvas Rojas,Rumania,https://nala.ro/products/spuma-baie-struguri-rosii-1,Espuma De Baño,Jabon Natural
+65000,200,Spumă Baie - LiliacAdaugă la .,Ducha y Baño,Espuma de Baño,24.9,Lila,Rumania,https://nala.ro/products/spuma-baie-liliac,Espuma De Baño,Jabon Natural
+64899,250,Săpun Natural Lichid Mâini - Struguri RoșiiAdaugă la .,Ducha y Baño,Jabon de manos,14.9,Uvas Rojas,Rumania,https://nala.ro/products/sapun-natural-lichid-maini-struguri-rosii-1,Jabón Natural,Jabon Natural
+64898,250,Săpun Natural Lichid Hidratant - Ulei CânepăAdaugă la .,Ducha y Baño,Jabon de manos,19.9,Cañamo,Rumania,https://nala.ro/products/sapun-natural-lichid-hidratant-ulei-canepa,Jabón Natural,Jabon Natural
+64871,500,Gel de duș - GrapefruitAdaugă la .,Ducha y Baño,Gel de Ducha,39.9,Pomelo,Rumania,https://nala.ro/products/gel-de-dus-grapefruit-2,Gel de Ducha,Gel de Ducha
+64870,500,Gel de duș - Struguri roșiiAdaugă la .,Ducha y Baño,Gel de Ducha,39.9,Uvas Rojas,Rumania,https://nala.ro/products/gel-de-dus-struguri-rosii-2,Gel de Ducha,Gel de Ducha
+64869,200,Gel de duș - RodieAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Granada,Rumania,https://nala.ro/products/gel-de-dus-rodie,Gel de Ducha,Gel de Ducha
+64868,200,Gel de duș - CafeaAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Cafe,Rumania,https://nala.ro/products/gel-de-dus-cafea,Gel de Ducha,Gel de Ducha
+64867,200,Gel de duș - Nucă de Cocos & VanilieAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Coco,Rumania,https://nala.ro/products/gel-de-dus-nuca-de-cocos-vanilie,Gel de Ducha,Leche de Baño
+64866,200,Gel de duș - Struguri roșiiAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Uvas Rojas,Rumania,https://nala.ro/products/gel-de-dus-struguri-rosii-1,Gel de Ducha,Sal de Baño
+64863,200,Gel de duș - GrapefruitAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Pomelo,Rumania,https://nala.ro/products/gel-de-dus-grapefruit-1,Gel de Ducha,Gel de Ducha
+64862,200,Gel de duș - Flori de PrimăvarăAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Flores de Primavera,Rumania,https://nala.ro/products/gel-de-dus-flori-de-primavara-1,Gel de Ducha,Sal de Baño
+64859,50,Bombă Baie Hidratantă - Nucă de CocosAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Coco,Rumania,https://nala.ro/products/bomba-baie-hidratanta-nuca-de-cocos,Bomba de Baño,Gel de Ducha
+64857,50,Bombă Baie Hidratantă - GrapefruitAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Pomelo,Rumania,https://nala.ro/products/bomba-baie-hidratanta-grapefruit,Bomba de Baño,Gel de Ducha
+64853,125,Bombă Baie Efervescentă - Ulei CânepăAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Cañamo,Rumania,https://nala.ro/products/bomba-baie-efervescenta-ulei-canepa,Bomba de Baño,Gel de Ducha
+64838,200,Spumă Baie - CăpșuniAdaugă la .,Ducha y Baño,Espuma de Baño,24.9,Fresa,Rumania,https://nala.ro/products/spuma-baie-capsuni,Espuma De Baño,Espuma de Baño
+64834,250,Săpun Natural Lichid Mâini - GrapefruitAdaugă la .,Ducha y Baño,Jabon de manos,12.9,Pomelo,Rumania,https://nala.ro/products/sapun-natural-lichid-maini-grapefruit,Jabón Natural,Espuma de Baño
+64814,100,Săpun Natural cu Lufă - VanilieAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Vainilla,Rumania,https://nala.ro/products/sapun-natural-cu-lufa-vanilie,Jabón Natural,Espuma de Baño
+64813,50,Bombă Baie Hidratantă - BananăAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Banana,Rumania,https://nala.ro/products/bomba-baie-hidratanta-banana,Bomba de Baño,Jabon de manos
+64812,125,Bombă Baie Efervescentă - Lămâie VerdeAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Limón,Rumania,https://nala.ro/products/bomba-baie-efervescenta-lamaie-verde,Bomba de Baño,Jabon de manos
+64811,125,Bombă Baie Efervescentă - CoacăzeAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Grosellas,Rumania,https://nala.ro/products/bomba-baie-efervescenta-coacaze,Bomba de Baño,Gel de Ducha
+64809,125,Bombă Baie Efervescentă - Liliac StrălucitorAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Lila Brillante,Rumania,https://nala.ro/products/bomba-baie-efervescenta-liliac-stralucitor,Bomba de Baño,Gel de Ducha
+64380,200,Gel de duș Exfoliant Hidratant - ZmeurăAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Frambuesa,Rumania,https://nala.ro/products/gel-dus-exfoliant-hidratant-zmeura,Gel de Ducha,Gel de Ducha
+64379,200,Gel de duș Exfoliant Hidratant - CăpșuniAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Fresa,Rumania,https://nala.ro/products/gel-dus-exfoliant-hidratant-capsuni,Gel de Ducha,Gel de Ducha
+64378,200,Gel de duș Exfoliant Hidratant - KiwiAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Kiwi,Rumania,https://nala.ro/products/gel-dus-exfoliant-hidratant-kiwi,Gel de Ducha,Gel de Ducha
+64377,100,Săpun Strălucitor - CitriceAdaugă la .,Ducha y Baño,Jabon Natural,16.9,Cítricos,Rumania,https://nala.ro/products/sapun-stralucitor-citrice,Jabón Natural,Gel de Ducha
+64371,200,Gel de duș - VetiverAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Vetiver,Rumania,https://nala.ro/products/gel-de-dus-vetiver,Gel de Ducha,Gel de Ducha
+64370,200,Gel de duș - ȘofranAdaugă la .,Ducha y Baño,Gel de Ducha,19.9,Azafrán,Rumania,https://nala.ro/products/gel-de-dus-sofran,Gel de Ducha,Gel de Ducha
+64284,150,Ulei de duș - Vanilie & TrandafiriAdaugă la .,Ducha y Baño,Aceite de Ducha,29.9,Rosas,Rumania,https://nala.ro/products/ulei-dus-vanilie-trandafiri,Aceite de Ducha,Crema de Baño
+64283,150,Ulei de duș - Struguri RoșiiAdaugă la .,Ducha y Baño,Aceite de Ducha,29.9,Uvas Rojas,Rumania,https://nala.ro/products/ulei-dus-struguri-rosii,Aceite de Ducha,Crema de Baño
+64203,50,Bombă Baie Hidratantă - CăpșuniAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Fresa,Rumania,https://nala.ro/products/bomba-baie-hidratanta-capsuni,Bomba de Baño,Bomba de Baño
+64202,125,Bomba Baie Efervescentă - Cafea & BananăAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Café y Plátano,Rumania,https://nala.ro/products/sare-baie-efervescenta-cafea-banana,Bomba de Baño,Espuma de Baño
+64201,125,Bombă Baie Efervescentă - Caramel & VanilieAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Caramelo y Vainilla,Rumania,https://nala.ro/products/bomba-baie-efervescenta-caramel-vanilie,Bomba de Baño,Jabon de manos
+64200,125,Bomba Baie Efervescentă - Zmeură & VanilieAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Vainilla,Rumania,https://nala.ro/products/sare-baie-efervescenta-zmeura-vanilie,Bomba de Baño,Jabon Natural
+30794,125,Bombă Baie Efervescentă - PapayaAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Papaya,Rumania,https://nala.ro/products/bomba-baie-efervescenta-papaya,Bomba de Baño,Jabon Natural
+30784,125,Bombă Baie Efervescentă - CafeaAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Cafe,Rumania,https://nala.ro/products/bomba-baie-efervescenta-cafea,Bomba de Baño,Crema de Baño
+30755,100,Săpun Natural - PortocalăAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Naranja,Rumania,https://nala.ro/products/sapun-natural-portocala,Jabón Natural,Bomba de Baño
+30754,100,Săpun Natural - MangoAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Mango,Rumania,https://nala.ro/products/sapun-natural-mango,Jabón Natural,Bomba de Baño
+30752,100,Săpun Natural - LămâieAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Limón,Rumania,https://nala.ro/products/sapun-natural-lamaie,Jabón Natural,Bomba de Baño
+30748,100,Săpun Anticelulitic Natural - GrapefruitAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Pomelo,Rumania,https://nala.ro/products/sapun-natural-grapefruit,Jabón Natural,Bomba de Baño
+30745,100,Săpun Natural - Nucă de CocosAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Coco,Rumania,https://nala.ro/products/sapun-natural-nuca-de-cocos,Jabón Natural,Gel de Ducha
+30741,100,Săpun Natural - Afine & MureAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Arandanos,Rumania,https://nala.ro/products/sapun-natural-afine-mure,Jabón Natural,Gel de Ducha
+30735,100,Săpun Natural - AnticeluliticAdaugă la .,Ducha y Baño,Jabon Natural,15.9,Semillas de mostaza,Rumania,https://nala.ro/products/sapun-natural-anticelulitic,Jabón Natural,Gel de Ducha
+30732,125,Bombă Baie Efervescentă - GrapefruitAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Pomelo,Rumania,https://nala.ro/products/bomba-baie-efervescenta-grapefruit,Bomba de Baño,Jabon Natural
+30731,125,Bombă Baie Efervescentă - MangoAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Mango,Rumania,https://nala.ro/products/bomba-baie-efervescenta-mango,Bomba de Baño,Jabon Natural
+30730,125,Bombă Baie Efervescentă - CăpșuniAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Fresa,Rumania,https://nala.ro/products/bomba-baie-efervescenta-capsuni,Bomba de Baño,Gel de Ducha
+30729,125,Bombă Baie Efervescentă - FreshAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Fresco,Rumania,https://nala.ro/products/bomba-baie-efervescenta-fresh,Bomba de Baño,Gel de Ducha
+30724,125,Bombă Baie Efervescentă - Trandafiri & VanilieAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Rosas,Rumania,https://nala.ro/products/bomba-baie-efervescenta-trandafiri-vanilie,Bomba de Baño,Aceite de Ducha
+30723,125,Bombă Baie Efervescentă - RodieAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Granada,Rumania,https://nala.ro/products/bomba-baie-efervescenta-rodie,Bomba de Baño,Aceite de Ducha
+30722,50,Bombă Baie Hidratantă - CafeaAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Cafe,Rumania,https://nala.ro/products/bomba-baie-hidratanta-cafea,Bomba de Baño,Crema de Baño
+30721,50,Bombă Baie Hidratantă - TrandafiriAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Rosas,Rumania,https://nala.ro/products/bomba-baie-hidratanta-trandafiri,Bomba de Baño,Bomba de Baño
+30720,50,Bombă Baie Hidratantă - Struguri roșiiAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Uvas Rojas,Rumania,https://nala.ro/products/bomba-baie-hidratanta-struguri-rosii,Bomba de Baño,Bomba de Baño
+30719,50,Bombă Baie Hidratantă - LămâițăAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Limoncillo,Rumania,https://nala.ro/products/bomba-baie-hidratanta-lamaita,Bomba de Baño,Bomba de Baño
+30718,50,Bombă Baie Hidratantă - LavandăAdaugă la .,Ducha y Baño,Crema de Baño,12.9,Lavanda,Rumania,https://nala.ro/products/bomba-baie-hidratanta-lavanda,Bomba de Baño,Bomba de Baño
+30667,300,Lapte Pudră Baie - Struguri roșiiAdaugă la .,Ducha y Baño,Leche de Baño,39.9,Uvas Rojas,Rumania,https://nala.ro/products/lapte-pudra-baie-struguri-rosii,Leche De Baño,Bomba de Baño
+30666,300,Lapte Pudră Baie - LavandăAdaugă la .,Ducha y Baño,Leche de Baño,39.9,Lavanda,Rumania,https://nala.ro/products/lapte-pudra-baie-lavanda,Leche De Baño,Bomba de Baño
+30620,600,Sare Baie - GrapefruitAdaugă la .,Ducha y Baño,Sal de Baño,32.9,Pomelo,Rumania,https://nala.ro/products/sare-baie-grapefruit,Sal de Baño,Jabon Natural
+70476,125,Bombă Baie Efervescentă - LaleleAdaugă la .,Ducha y Baño,Bomba de Baño,12.9,Tulipanes,Rumania,https://nala.ro/products/bomba-baie-efervescenta-lalele,Bomba de Baño,Jabon Natural
+70418,100,Săpun Natural - Ylang YlangAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Ylang Ylang,Rumania,https://nala.ro/products/sapun-natural-ylang-ylang,Jabón Natural,Jabon Natural
+65035,200,Gel de duș - Flori de PortocalAdaugă la .,Ducha y Baño,Gel de Ducha,9.9,Flores de Naranjo,Rumania,https://nala.ro/products/gel-de-dus-flori-de-portocal,Gel de Ducha,Jabon Natural
+64381,200,Gel de duș Exfoliant Hidratant - GrapefruitAdaugă la .,Ducha y Baño,Gel de Ducha,29.9,Pomelo,Rumania,https://nala.ro/products/gel-dus-exfoliant-hidratant-grapefruit,Gel de Ducha,Jabon Natural
+64282,150,Ulei de duș - GrapefruitAdaugă la .,Ducha y Baño,Aceite de Ducha,29.9,Pomelo,Rumania,https://nala.ro/products/ulei-dus-grapefruit-1,Aceite de Ducha,Jabon Natural
+30759,100,Săpun Natural - Struguri RoșiiAdaugă la .,Ducha y Baño,Jabon Natural,6.45,Uvas Rojas,Rumania,https://nala.ro/products/sapun-natural-struguri-rosii,Jabón Natural,Jabon Natural
+30758,100,Săpun Natural - RodieAdaugă la .,Ducha y Baño,Jabon Natural,12.9,Granada,Rumania,https://nala.ro/products/sapun-natural-rodie,Jabón Natural,Jabon Natural
+70482,11,Unt Buze - Nucă de Cocos & VanilieAdaugă la .,Rostro,Bálsamo labial,19.9,Coco,Rumania,https://nala.ro/products/balsam-buze-nuca-cocos-vanilie,Bálsamo Labial,Jabon Natural
+64836,11,Unt Buze - CireșeAdaugă la .,Rostro,Bálsamo labial,19.9,Cereza,Rumania,https://nala.ro/products/balsam-buze-cirese,Bálsamo Labial,Bomba de Baño
+70472,50,Exfoliant Facial - Exfoliere Profundă - Cafea & Ulei Nuci MacadamiaAdaugă la .,Rostro,Exfoliante Facial,29.9,Cafe,Rumania,https://nala.ro/products/exfoliant-facial-exfoliere-profunda-cafea-ulei-nuci-macadamia,Aceite Facial,Bomba de Baño
+64827,15,"Cremă Ochi Iluminatoare - Cearcăne & Pungi - Cafeină, Shea, Ceai VerdeAdaugă la .",Rostro,Contorno de Ojos,39.9,Cafeína,Rumania,https://nala.ro/products/crema-ochi-iluminatoare-cearcane-pungi-cafeina-shea-ceai-verde,Crema Corporal,Bomba de Baño
+30689,11,Unt Buze - MangoAdaugă la .,Rostro,Bálsamo labial,19.9,Mango,Rumania,https://nala.ro/products/balsam-buze-mango,Bálsamo Labial,Bomba de Baño
+30688,11,Unt Buze - RodieAdaugă la .,Rostro,Bálsamo labial,19.9,Granada,Rumania,https://nala.ro/products/balsam-buze-rodie,Bálsamo Labial,Crema de Baño
+70411,75,Tonic Facial Ten Gras - AlbăstreleAdaugă la .,Rostro,Tónico Facial,19.9,Acianos,Rumania,https://nala.ro/products/tonic-facial-ten-gras-albastrele,Tónico Facial,Crema de Baño
+70412,75,Tonic Facial Ten Mixt - Flori de PortocalAdaugă la .,Rostro,Tónico Facial,19.9,Flores de Naranjo,Rumania,https://nala.ro/products/tonic-facial-ten-mixt-flori-de-portocal,Tónico Facial,Crema de Baño
+70458,120,Exfoliant Facial Hidratant - Pudră Sâmburi de CaiseAdaugă la .,Rostro,Exfoliante Facial,29.9,Polvo de Semillas de Albaricoque,Rumania,https://nala.ro/products/exfoliant-facial-hidratant-coacaze-negre,Exfoliante Corporal,Crema de Baño
+64839,11,Unt Buze - CafeaAdaugă la .,Rostro,Bálsamo labial,19.9,Cafe,Rumania,https://nala.ro/products/balsam-buze-cafea,Bálsamo Labial,Crema de Baño
+64837,11,Unt Buze - Pepene RoșuAdaugă la .,Rostro,Bálsamo labial,14.9,Sandía,Rumania,https://nala.ro/products/balsam-buze-pepene-rosu,Bálsamo Labial,Leche de Baño
+64224,11,Unt Buze - CăpșuniAdaugă la .,Rostro,Bálsamo labial,19.9,Fresa,Rumania,https://nala.ro/products/balsam-buze-capsuni,Bálsamo Labial,Leche de Baño
+64222,11,Unt Buze - GrapefruitAdaugă la .,Rostro,Bálsamo labial,19.9,Pomelo,Rumania,https://nala.ro/products/balsam-buze-grapefruit,Bálsamo Labial,Sal de Baño
+74280,120,"Exfoliant Facial - Exfoliere Delicată - Kiwi, Ulei Măsline, MușcatăAdaugă la .",Rostro,Exfoliante Facial,29.9,Kiwi,Rumania,https://nala.ro/products/exfoliant-facial-exfoliere-delicata-kiwi-ulei-masline-muscata,Aceite Facial,Bomba de Baño
+30672,50,Cremă de față Nutritivă - Ten Uscat - Shea & JojobaAdaugă la .,Rostro,Crema Facial,59.9,Jojoba,Rumania,https://nala.ro/products/crema-de-fata-nutritiva-ten-uscat-shea-jojoba,Crema Facial,Jabon Natural
+64833,25,Exfoliant buze - Pepene RoșuAdaugă la .,Rostro,Exfoliante Labial,19.9,Sandía,Rumania,https://nala.ro/products/exfoliant-buze-pepene-rosu,Exfoliante Corporal,Gel de Ducha
+70483,11,Unt Buze - Trandafiri & MentăAdaugă la .,Rostro,Bálsamo labial,19.9,Rosas,Rumania,https://nala.ro/products/balsam-buze-trandafiri-menta,Bálsamo Labial,Gel de Ducha
+30674,50,Cremă de față Anti Îmbătrânire - Ten Matur - Ulei de AvocadoAdaugă la .,Rostro,Crema Facial,59.9,Aceite,Rumania,https://nala.ro/products/crema-de-fata-de-zi-anti-imbatranire-ulei-de-avocado,Crema Facial,Aceite de Ducha
+74281,120,Exfoliant Facial - Exfoliere Blândă - Căpșuni & Unt MangoAdaugă la .,Rostro,Exfoliante Facial,29.9,Fresa,Rumania,https://nala.ro/products/exfoliant-facial-exfoliere-blanda-capsuni-unt-mango,Exfoliante Corporal,Jabon Natural
+64223,11,Unt Buze - VanilieAdaugă la .,Rostro,Bálsamo labial,19.9,Vainilla,Rumania,https://nala.ro/products/balsam-buze-vanilie,Bálsamo Labial,Jabon Natural
+64221,11,Unt Buze - Cocktail FructeAdaugă la .,Rostro,Bálsamo labial,19.9,Cóctel de Frutas,Rumania,https://nala.ro/products/balsam-buze-cocktail-fructe,Bálsamo Labial,Bálsamo labial
+64832,25,Exfoliant buze - CireșeAdaugă la .,Rostro,Exfoliante Labial,19.9,Cereza,Rumania,https://nala.ro/products/exfoliant-buze-cirese,Exfoliante Corporal,Bálsamo labial
+70434,200,Apă Micelară machiaj rezistent la apă - Ulei de argan & Aloe VeraAdaugă la .,Rostro,Limpiador Facial,29.9,Argán,Rumania,https://nala.ro/products/apa-micelara-machiaj-rezistent-la-apa-ulei-de-argan-aloe-vera,Agua micelar limpiador,Otro
+65020,50,Cremă de față Matifiantă SPF 50 - Ten Mixt - Măceșe & Ulei MăslineAdaugă la .,Rostro,Protector solar facial,69.9,Aceite,Rumania,https://nala.ro/products/crema-matifianta-spf-50-ten-mixt-macese-ulei-masline,Crema Facial,Exfoliante Facial
+30678,200,Spumă Curățare Ten Gras - GălbeneleAdaugă la .,Rostro,Limpiador Facial,49.9,Galbenele,Rumania,https://nala.ro/products/spuma-curatare-ten-gras-galbenele,Espuma Limpiadora,Contorno de Ojos
+30676,200,Spumă Curățare Ten Normal - MușețelAdaugă la .,Rostro,Limpiador Facial,49.9,Manzanilla,Rumania,https://nala.ro/products/spuma-curatare-ten-normal-musetel,Espuma Limpiadora,Otro
+64213,11,Unt Buze Strălucitor - RodieAdaugă la .,Rostro,Bálsamo labial,24.9,Granada,Rumania,https://nala.ro/products/balsam-buze-stralucitor-rodie,Bálsamo Labial,Bálsamo labial
+65019,50,Cremă de față Hidratantă SPF 50 - Ten Normal - Imortele & MargareteAdaugă la .,Rostro,Protector solar facial,69.9,Piel Normal y Margaritas,Rumania,https://nala.ro/products/crema-hidratanta-spf-50-ten-normal-imortele-margarete,Crema Facial,Tónico Facial
+65021,50,Cremă de față Antiacneică SPF 50 - Ten Acneic - Arbore Ceai & RozmarinAdaugă la .,Rostro,Protector solar facial,58.9,Té y Romero,Rumania,https://nala.ro/products/crema-antiacneica-spf-50-ten-acneic-arbore-ceai-rozmarin,Crema Facial,Tónico Facial
+74286,50,Cremă de față Intens Hidratantă - Ten UscatAdaugă la .,Rostro,Crema Facial,69.9,Piel Seca,Rumania,https://nala.ro/products/crema-intens-hidratanta-ten-uscat-ulei-canepa,Crema Facial,Exfoliante Facial
+70413,75,Tonic Facial Ten Uscat - TrandafiriAdaugă la .,Rostro,Tónico Facial,19.9,Rosas,Rumania,https://nala.ro/products/tonic-facial-ten-uscat-trandafiri,Tónico Facial,Bálsamo labial
+74279,50,Gel Purifiant Curățare TenAdaugă la .,Rostro,Limpiador Facial,39.9,Cañamo,Rumania,https://nala.ro/products/gel-purifiant-curatare-ten-ulei-de-canepa,Gel de Ducha,Bálsamo labial
+70402,25,Exfoliant buze - RodieAdaugă la .,Rostro,Exfoliante Labial,17.9,Rodie,Rumania,https://nala.ro/products/exfoliant-buze-rodie,Exfoliante Corporal,Bálsamo labial
+74288,120,Exfoliant Facial - Exfoliere Medie - Mălai & ScorțișoarăAdaugă la .,Rostro,Exfoliante Facial,29.9,Canela,Rumania,https://nala.ro/products/exfoliant-facial-exfoliere-medie-malai-scortisoara,Exfoliante Corporal,Bálsamo labial
+70461,100,Mască Facială Extra Hidratantă - Pudră & Unt Cacao și Unt SheaAdaugă la .,Rostro,Mascarilla Facial,39.9,Karité,Rumania,https://nala.ro/products/masca-faciala-hidratanta-ciocolata,Mascarilla Facial,Exfoliante Facial
+30783,25,Exfoliant buze - MangoAdaugă la .,Rostro,Exfoliante Labial,19.9,Mango,Rumania,https://nala.ro/products/exfoliant-buze-mango,Exfoliante Corporal,Crema Facial
+64828,15,"Cremă Ochi Hidratantă - Ulei Migdale, Ulei Jojoba, Apă LavandăAdaugă la .",Rostro,Contorno de Ojos,30.9,Almendras,Rumania,https://nala.ro/products/crema-ochi-hidratanta-ulei-migdale-ulei-jojoba-apa-lavanda,Aceite Corporal,Exfoliante Labial
+74287,100,"Demachiant Cremă - Ulei Migdale, Trandafiri, Miere, SheaAdaugă la .",Rostro,Limpiador Facial,39.9,Almendras,Rumania,https://nala.ro/products/demachiant-crema-ulei-migdale-trandafiri-miere-shea,Aceite Corporal,Bálsamo labial
+64218,25,Exfoliant buze - VanilieAdaugă la .,Rostro,Exfoliante Labial,19.9,Vainilla,Rumania,https://nala.ro/products/exfoliant-buze-vanilie,Exfoliante Corporal,Crema Facial
+64293,50,"Mască Facială Matifiantă - Ulei Lavandă, Argilă Albă, Ulei Migdale DulciAdaugă la .",Rostro,Mascarilla Facial,39.9,Lavanda,Rumania,https://nala.ro/products/masca-faciala-matifianta-ulei-lavanda-argila-alba-ulei-migdale-dulci,Mascarilla Facial,Exfoliante Facial
+64272,30,Ser Facial Iluminator - Vitamina C 20% + Aloe Vera 2%Adaugă la .,Rostro,Serum Facial,59.9,Aloe Vera,Rumania,https://nala.ro/products/ser-facial-iluminator-vitamina-c-20-aloe-vera-2,Serum Facial,Bálsamo labial
+64270,30,Ser Facial Pori Dilatați & Puncte Negre - Acid Salicilic 2%Adaugă la .,Rostro,Serum Facial,59.9,Ácido Salicílico,Rumania,https://nala.ro/products/ser-facial-pori-dilatati-si-puncte-negre-cu-acid-salicilic-2,Serum Facial,Bálsamo labial
+64835,25,Exfoliant buze - CafeaAdaugă la .,Rostro,Exfoliante Labial,19.9,Cafe,Rumania,https://nala.ro/products/exfoliant-buze-cafea,Exfoliante Corporal,Exfoliante Labial
+64826,200,"Lapte Demachiant - Ulei Cânepă, Avocado, Aloe VeraAdaugă la .",Rostro,Limpiador Facial,29.9,ACañamo,Rumania,https://nala.ro/products/lapte-demachiant-ulei-canepa-avocado-aloe-vera,Leche Limpiador Facial,Limpiador Facial
+64460,50,"Mască Facială Pori Dilatați și Puncte Negre - Pudră Cărbune, Niacinamide, Ulei MentăAdaugă la .",Rostro,Mascarilla Facial,39.9,Carbón,Rumania,https://nala.ro/products/masca-faciala-pori-dilatati-si-puncte-negre-pudra-carbune-niacinamide-ulei-menta,Mascarilla Facial,Protector solar facial
+64269,30,Ser Facial Intens Hidratant - Acid Hialuronic 5% + Pantenol 1%Adaugă la .,Rostro,Serum Facial,59.9,Ácido Hialurónico 5% y Pantenol,Rumania,https://nala.ro/products/ser-facial-intens-hidratant-acid-hialuronic-5-pantenol-1,Serum Facial,Crema Facial
+64217,25,Exfoliant buze - GrapefruitAdaugă la .,Rostro,Exfoliante Labial,19.9,Pomelo,Rumania,https://nala.ro/products/exfoliant-buze-grapefruit,Exfoliante Corporal,Limpiador Facial
+64831,30,Ser Facial Regenerant - Extract Nalbă & Gotu KolaAdaugă la .,Rostro,Serum Facial,59.9,Malva,Rumania,https://nala.ro/products/ser-facial-regenerant-extract-nalba-gotu-kola,Serum Facial,Limpiador Facial
+65135,50,Cremă de față Antipoluare - Ten Mixt - Alge Marine & CastraveteAdaugă la .,Rostro,Crema Facial,79.9,Algas marinas,Rumania,https://nala.ro/products/crema-ten-mixt-antipoluare-alge-marine-castravete,Crema Facial,Bálsamo labial
+64219,25,Exfoliant buze - CăpșuniAdaugă la .,Rostro,Exfoliante Labial,19.9,Fresa,Rumania,https://nala.ro/products/exfoliant-buze-capsuni,Exfoliante Corporal,Bálsamo labial
+64216,25,Exfoliant buze - Cocktail FructeAdaugă la .,Rostro,Exfoliante Labial,19.9,Cóctel de Frutas,Rumania,https://nala.ro/products/exfoliant-buze-cocktail-fructe,Exfoliante Corporal,Otro
+64458,50,"Mască Facială Antiacneică - Acid Salicilic, Niacinamide, Extract Hamamelis, Ulei Arbore CeaiAdaugă la .",Rostro,Mascarilla Facial,39.9,Ácido Salicílico,Rumania,https://nala.ro/products/masca-faciala-antiacneica-acid-salicilic-niacinamide-extract-hamamelis-ulei-arbore-ceai,Mascarilla Facial,Protector solar facial
+30765,50,"Cremă de față hidratantă - Celule Stem, Rodie și Ulei de Lemn de TrandafirAdaugă la .",Rostro,Crema Facial,99.9,Células Madre,Rumania,https://nala.ro/products/crema-de-fata-ten-mixt-celule-stem-ulei-germeni-grau,Crema Facial,Crema Facial
+74285,30,Ulei Facial - Ten UscatAdaugă la .,Rostro,Aceite Facial,59.9,Cañamo,Rumania,https://nala.ro/products/ulei-facial-ten-uscat-ulei-canepa,Aceite Facial,Protector solar facial
+64385,50,Mască Facială Iluminatoare - Extract Turmeric & Vitamina CAdaugă la .,Rostro,Mascarilla Facial,39.9,Extracto,Rumania,https://nala.ro/products/masca-faciala-iluminatoare-extract-turmeric-vitamina-c,Mascarilla Facial,Crema Facial
+30766,50,Cremă de față Fermizantă - Ten Matur -  Acid Hialuronic & AcmellaAdaugă la .,Rostro,Crema Facial,109.9,Ácido Hialurónico,Rumania,https://nala.ro/products/crema-de-fata-fermitate-ten-uscat-catina-cicoare,Crema Facial,Crema Facial
+30677,200,Spumă Curățare Ten Uscat - Aloe VeraAdaugă la .,Rostro,Limpiador Facial,49.9,Aloe Vera,Rumania,https://nala.ro/products/spuma-curatare-ten-uscat-aloe-vera,Espuma Limpiadora,Tónico Facial
+30762,30,Cremă Contur Ochi - Castravete & Alge MarineAdaugă la .,Rostro,Contorno de Ojos,79.9,Algas Marinas,Rumania,https://nala.ro/products/crema-contur-ochi-castravete-alge-marine,Crema Corporal,Limpiador Facial
+64459,50,"Mască Facială Calmantă - Pudră Hibiscus, Extract Castravete, Apă TrandafiriAdaugă la .",Rostro,Mascarilla Facial,29.9,Polvo de Hibisco,Rumania,https://nala.ro/products/masca-faciala-calmanta-pudra-hibiscus-extract-castravete-apa-trandafiri,Mascarilla Facial,Exfoliante Labial
+64461,0,"Mască Facială Intens Hidratantă - Cafeină, Unt Cacao, Unt Shea, Ulei migdaleAdaugă la .",Rostro,Mascarilla Facial,39.9,Cafeína,Rumania,https://nala.ro/products/masca-faciala-intens-hidratanta-cafeina-unt-cacao-unt-shea-ulei-migdale,Mascarilla Facial,Exfoliante Facial
+64274,30,Ser Facial Concentrat Uniformizare și Fermitate - Colagen Peptide 10% + AminoaciziAdaugă la .,Rostro,Serum Facial,59.9,Péptidos de Colágeno,Rumania,https://nala.ro/products/ser-concentrat-uniformizare-si-fermitate-colagen-peptide-10-aminoacizi,Serum Facial,Mascarilla Facial
+64462,50,"Mască Facială Energizantă - Ulei Orez, Ulei Lămâie, Vitamina C, Extract GardenieAdaugă la .",Rostro,Mascarilla Facial,39.9,Arroz,Rumania,https://nala.ro/products/masca-faciala-energizanta-ulei-orez-ulei-lamaie-vitamina-c-extract-gardenie,Mascarilla Facial,Exfoliante Labial
+64386,50,"Mască Facială Hidratantă - Pudră Spirulină, Proteină Grâu, Ulei AvocadoAdaugă la .",Rostro,Mascarilla Facial,39.9,Espirulina,Rumania,https://nala.ro/products/masca-faciala-hidratanta-pudra-spirulina-proteina-grau-ulei-avocado,Mascarilla Facial,Contorno de Ojos
+30763,30,Ser Facial Fermitate - Acmella & CicoareAdaugă la .,Rostro,Serum Facial,119.9,Acmella,Rumania,https://nala.ro/products/ser-facial-fermitate-acmella-cicoare,Serum Facial,Limpiador Facial
+64275,30,Ser ochi iluminator și energizant - Cafeină 5% + Extract Ceai VerdeAdaugă la .,Rostro,Contorno de Ojos,59.9,Cafeína,Rumania,https://nala.ro/products/ser-ochi-iluminator-si-energizant-cafeina-5-extract-ceai-verde,Contorno de Ojos,Exfoliante Labial
+64457,50,"Mască Facială Efect Calmare - Ulei Cătină, Aloe Vera, Extract GălbeneleAdaugă la .",Rostro,Mascarilla Facial,29.9,Aloe vera,Rumania,https://nala.ro/products/masca-faciala-efect-calmare-ulei-catina-aloe-vera-extract-galbenele,Mascarilla Facial,Mascarilla Facial
+64273,30,Ser facial exfoliant - AHA Acid Glicolic 5%Adaugă la .,Rostro,Exfoliante Facial,54.9,Ácido Glicólico,Rumania,https://nala.ro/products/ser-facial-exfoliant-aha-acid-glicolic-5,Exfoliante Corporal,Serum Facial
+64497,50,"Cremă de față Pori Dilatați & Puncte Negre - Ten Mixt - Cărbune, Bambus, Acid Salicilic și Extract HamamelisAdaugă la .",Rostro,Crema Facial,99.9,Carbón,Rumania,https://nala.ro/products/crema-pori-dilatati-puncte-negre-ten-mixt-carbune-bambus-acid-salicilic-si-extract-hamamelis,Crema Facial,Serum Facial
+64237,30,"Ser Facial concentrat Antipoluare - Prasinoguard, Brocoli, MușețelAdaugă la .",Rostro,Serum Facial,79.9,Prasinoguard,Rumania,https://nala.ro/products/ser-facial-concentrat-antipoluare-prasinoguard-brocoli-musetel,Serum Facial,Exfoliante Labial
+64494,50,"Cremă de față Anti Acneică - Niacinamide, Acid Salicilic, Suc de Mesteacăn și Ulei Arbore de CeaiAdaugă la .",Rostro,Crema Facial,99.9,Niacinamida,Rumania,https://nala.ro/products/crema-anti-acneica-niacinamide-acid-salicilic-suc-de-mesteacan-si-ulei-arbore-de-ceai,Crema Facial,Limpiador Facial
+64495,50,"Cremă de față Hidratantă - Ten Normal - Extract Gălbenele, Ginkgo Biloba si Ulei Sâmburi de StruguriAdaugă la .",Rostro,Crema Facial,99.9,Piel Normal,Rumania,https://nala.ro/products/crema-hidratanta-ten-normal-extract-galbenele-ginkgo-biloba-si-ulei-samburi-de-struguri,Crema Facial,Mascarilla Facial
+64496,50,"Cremă de față Control Sebum & Matifiantă - Ten Gras - Extract Kale, Ceai Verde, Ovăz și Ulei PorumbAdaugă la .",Rostro,Crema Facial,99.9,Piel Grasa,Rumania,https://nala.ro/products/crema-control-sebum-matifianta-ten-gras-extract-kale-ceai-verde-ovaz-si-ulei-porumb,Crema Facial,Serum Facial
