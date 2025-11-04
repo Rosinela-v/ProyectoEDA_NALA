@@ -139,6 +139,7 @@ Este estudio evidencia cómo **el análisis de datos** permite entender mejor la
 
 **Rosinela Vega**  
 🎓 *Proyecto: De los Leus al Euro – Análisis Exploratorio de Datos*  
-💼 *Marca: Nala – Cosmética Ética y Sostenible*  
+💼 *Marca: Nala Cosmetics*  
+
 
 ---
