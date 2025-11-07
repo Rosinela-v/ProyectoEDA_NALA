@@ -1,5 +1,6 @@
 # 🌸 NALA: De los Leus al Euro  
 ### _Un análisis exploratorio de precios y accesibilidad en dos economías europeas_  
+#Presentacion en Power Point y Streamlit
 
 ---
 
@@ -143,3 +144,4 @@ Este estudio evidencia cómo **el análisis de datos** permite entender mejor la
 
 
 ---
+
